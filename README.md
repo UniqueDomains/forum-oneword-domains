@@ -81,7 +81,7 @@ print(df.head())
 | seventeen.forum   | premium   | $125      | $125          | 84             | 62     | 9      | name.com        |
 | statistics.forum  | available | $49.98    | —             | 60             | 34     | 10     | namecheap       |
 | connect.forum     | resell    | —         | —             | 76             | 45     | 7      | Sav.com, LLC    |
-| free.forum        | premium   | $1,250    | $1,250        | 88             | 59     | 4      | name.com        |
+| cloud.forum       | premium   | $195      | $650          | 70             | 59     | 5      | namecheap       |
 | nimble.forum      | available | $44.99    | $44.99        | 94             | 33     | 6      | name.com        |
 | marketplace.forum | resell    | —         | —             | 76             | 44     | 11     | Dynadot, LLC    |
 
