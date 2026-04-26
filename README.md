@@ -1,22 +1,22 @@
-# Available .FORUM One-Word Domains (9,584)
+# Available .FORUM One-Word Domains (11,942)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-9%2C584%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C584%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C942%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated dataset of available and resale .forum one-word domains from Unique Domains.
+Daily-updated public extract of available and resale .forum one-word domains from Unique Domains.
 
-> **Note:** this repository currently mirrors the full live catalog for this exact search.
-> Unique Domains counts can still change as the search refreshes.
+> **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
+> The full live catalog for this exact search currently contains **11,942 domains** on the canonical page below.
 
-**Public extract:** 9,584 rows · **Live catalog:** 9,584 domains
+**Public extract:** 1,000 rows · **Live catalog:** 11,942 domains
 
-**Last updated:** 2026-04-13  
+**Last updated:** 2026-04-26  
 **Canonical page:** `https://unique.domains/domains/tld/forum`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .FORUM one-word domain
 
 ### Files
 
-- `forum.csv` — public CSV extract (9,584 rows)
-- `forum.json` — public JSON extract (9,584 rows)
+- `forum.csv` — public CSV extract (1,000 rows)
+- `forum.json` — public JSON extract (1,000 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
-| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
-| wizard.forum      | available | $44.99    | $44.99        | 118            | 43     | 6      | name.com        |
-| bridge.forum      | resell    | —         | —             | 68             | 47     | 6      | Porkbun LLC     |
-| converse.forum    | premium   | $125      | $125          | 64             | 73     | 8      | name.com        |
-| eternal.forum     | available | $44.99    | $44.99        | 92             | 39     | 7      | name.com        |
-| car.forum         | resell    | —         | —             | 94             | 46     | 3      | NAMECHEAP       |
-| nationwide.forum  | premium   | $125      | $125          | 76             | 66     | 10     | name.com        |
-| aaron.forum       | available | $49.98    | —             | 88             | 35     | 5      | namecheap       |
-| discord.forum     | resell    | —         | —             | 80             | 46     | 7      | Porkbun LLC     |
-| easy.forum        | premium   | $125      | $125          | 128            | 62     | 4      | name.com        |
-| progress.forum    | available | $44.99    | $44.99        | 82             | 34     | 8      | name.com        |
-| together.forum    | resell    | —         | —             | 80             | 46     | 8      | Spaceship, Inc. |
-| power.forum       | premium   | $195      | $650          | 98             | 62     | 5      | namecheap       |
-| happiness.forum   | available | $44.99    | —             | 82             | 34     | 9      | name.com        |
-| rocket.forum      | resell    | —         | —             | 100            | 45     | 6      | Dynadot, LLC    |
-| seventeen.forum   | premium   | $125      | $125          | 84             | 62     | 9      | name.com        |
-| statistics.forum  | available | $49.98    | —             | 60             | 34     | 10     | namecheap       |
-| connect.forum     | resell    | —         | —             | 76             | 45     | 7      | Sav.com, LLC    |
-| cloud.forum       | premium   | $195      | $650          | 70             | 59     | 5      | namecheap       |
-| nimble.forum      | available | $44.99    | $44.99        | 94             | 33     | 6      | name.com        |
-| marketplace.forum | resell    | —         | —             | 76             | 44     | 11     | Dynadot, LLC    |
+| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| Ryan.forum      | available | $49.98    | —             | 60             | 44     | 4      | namecheap |
+| Chanel.forum    | premium   | $700      | $700          | 80             | 77     | 6      | namecheap |
+| howto.forum     | available | $1.99     | —             | 76             | 35     | 6      | name.com  |
+| donuts.forum    | premium   | $87.50    | —             | 54             | 62     | 6      | name.com  |
+| solutions.forum | available | $1.99     | —             | 56             | 31     | 9      | name.com  |
+| RedSox.forum    | premium   | $140      | $140          | 72             | 60     | 7      | namecheap |
+| popup.forum     | available | $1.99     | —             | 84             | 29     | 6      | name.com  |
+| regions.forum   | premium   | $87.50    | —             | 64             | 59     | 7      | name.com  |
+| backyard.forum  | available | $1.99     | —             | 80             | 27     | 9      | name.com  |
+| Tools.forum     | premium   | $700      | $700          | 56             | 40     | 5      | namecheap |
+| Keith.forum     | available | $49.98    | —             | 66             | 25     | 5      | namecheap |
+| WiFi.forum      | premium   | $350      | $350          | 83             | 37     | 5      | namecheap |
+| schools.forum   | available | $1.99     | —             | 72             | 24     | 7      | name.com  |
+| events.forum    | premium   | $87.50    | —             | 68             | 37     | 6      | name.com  |
+| reports.forum   | available | $1.99     | —             | 58             | 24     | 7      | name.com  |
+| homes.forum     | premium   | $437.50   | —             | 86             | 34     | 5      | name.com  |
+| rekt.forum      | available | $1.99     | —             | 40             | 24     | 4      | name.com  |
+| tickets.forum   | premium   | $87.50    | —             | 64             | 34     | 7      | name.com  |
+| superhero.forum | available | $1.99     | —             | 84             | 23     | 9      | name.com  |
+| etc.forum       | premium   | $437.50   | —             | 58             | 34     | 3      | name.com  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 9,584-row public sample | 9,584 live domains                               |
+| 1,000-row public sample | 11,942 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .FORUM One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .FORUM One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
