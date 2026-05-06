@@ -14,9 +14,9 @@ Daily-updated public extract of available and resale .forum one-word domains fro
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,506 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,506 domains
+**Public extract:** 1,000 rows · **Live catalog:** 12,506 domains · **Median ask:** $40.05 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-01  
+**Last updated:** 2026-05-06  
 **Canonical page:** `https://unique.domains/domains/tld/forum`  
 **Best for:** founders, investors, studios
 
@@ -64,26 +64,26 @@ print(df.head())
 
 | domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
 | --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| popup.forum     | available | $1.99     | —             | 84             | 29     | 6      | name.com  |
+| gearup.forum    | available | $1.99     | —             | 80             | 16     | 7      | name.com  |
+| playon.forum    | available | $1.99     | —             | 80             | 14     | 7      | name.com  |
+| hangon.forum    | available | $1.99     | —             | 82             | 6      | 7      | name.com  |
+| makeit.forum    | available | $1.99     | —             | 82             | 22     | 7      | name.com  |
+| dogsick.forum   | available | $1.99     | —             | 90             | 1      | 7      | name.com  |
+| getlife.forum   | available | $1.99     | —             | 80             | 5      | 8      | name.com  |
+| messages.forum  | available | $1.99     | —             | 80             | 16     | 8      | name.com  |
+| headout.forum   | available | $1.99     | —             | 82             | 6      | 8      | name.com  |
 | Ryan.forum      | available | $49.98    | —             | 60             | 44     | 4      | namecheap |
 | donuts.forum    | premium   | $87.50    | —             | 54             | 62     | 6      | name.com  |
 | howto.forum     | available | $1.99     | —             | 76             | 35     | 6      | name.com  |
 | regions.forum   | premium   | $87.50    | —             | 64             | 59     | 7      | name.com  |
 | solutions.forum | available | $1.99     | —             | 56             | 31     | 9      | name.com  |
 | events.forum    | premium   | $87.50    | —             | 68             | 37     | 6      | name.com  |
-| popup.forum     | available | $1.99     | —             | 84             | 29     | 6      | name.com  |
 | homes.forum     | premium   | $437.50   | —             | 86             | 34     | 5      | name.com  |
 | backyard.forum  | available | $1.99     | —             | 80             | 27     | 9      | name.com  |
 | tickets.forum   | premium   | $87.50    | —             | 64             | 34     | 7      | name.com  |
 | Keith.forum     | available | $49.98    | —             | 66             | 25     | 5      | namecheap |
 | etc.forum       | premium   | $437.50   | —             | 58             | 34     | 3      | name.com  |
-| schools.forum   | available | $1.99     | —             | 72             | 24     | 7      | name.com  |
-| Cats.forum      | premium   | $700      | $700          | 59             | 33     | 4      | namecheap |
-| reports.forum   | available | $1.99     | —             | 58             | 24     | 7      | name.com  |
-| maps.forum      | premium   | $87.50    | —             | 56             | 31     | 4      | name.com  |
-| rekt.forum      | available | $1.99     | —             | 40             | 24     | 4      | name.com  |
-| slots.forum     | premium   | $437.50   | —             | 49             | 31     | 5      | name.com  |
-| superhero.forum | available | $1.99     | —             | 84             | 23     | 9      | name.com  |
-| spaces.forum    | premium   | $87.50    | —             | 54             | 30     | 6      | name.com  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -91,13 +91,13 @@ These rows are selected to show a more legible mix of visible asks, resale conte
 
 You are seeing the public sample. Unique Domains keeps the exact search context and adds saved workflows, deeper filters, and alerting.
 
-| GitHub extract          | Unique Domains                                   |
-| ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 12,506 live domains                              |
-| Static CSV / JSON       | live search and daily refresh                    |
-| Basic exported fields   | deeper price, demand, risk, and workflow context |
-| No persistence          | Radar, saved search, and alerts                  |
-| No founder workflow     | Project, shortlist, and next-step workflow       |
+| GitHub extract          | Unique Domains                             |
+| ----------------------- | ------------------------------------------ |
+| 1,000-row public sample | 12,506 live domains                        |
+| Static CSV / JSON       | live search and daily refresh              |
+| Basic exported fields   | 0 high-demand names under $2,500           |
+| No persistence          | Radar, saved search, and alerts            |
+| No founder workflow     | Project, shortlist, and next-step workflow |
 
 If this sample already feels useful, Unique Domains is where the exact search becomes a workflow.
 
@@ -120,13 +120,12 @@ See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This repository follows the exact public search represented by the canonical page above.
+This selection is entirely made up of one-word .forum domains. The strongest names usually match discussion-led use cases directly: topics, communities, interests, products, or audience groups. Examples here range from clear keywords like finals.forum and jewels.forum to broader brand-style words like popup.forum and useit.forum. When comparing these domains, focus first on whether the word naturally supports a forum context. Then check memorability, spelling clarity, singular versus plural meaning, and whether the term could create trademark friction. With a median ask of 40.05, entry price may look modest, so renewal burden and long-term relevance matter more than impulse buying.
 
-- This repository is a public extract, not the full live catalog.
-- Counts, prices, and statuses can change over time.
-- Scores are decision-support signals, not guarantees of resale value.
-- Trademark, SEO, and risk signals should be treated as screening inputs, not legal or specialist advice.
-- Unique Domains contains deeper filters, monitoring, and decision workflows than this public extract.
+- Best fit: words that naturally suit discussion or community use
+- Plural terms can work well for topic-led forum positioning
+- Low ask does not remove renewal or trademark risk
+- Favor clear spelling and obvious meaning over novelty
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -143,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .FORUM One-Word Domains*. Version 2026-05-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .FORUM One-Word Domains*. Version 2026-05-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
