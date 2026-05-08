@@ -565,6 +565,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 2c304afe-b639-402f-9671-67837665312d,hangwith.forum,available,1.99,,70,2,9,name.com,,
 2c32b041-fe51-4095-a509-18cdd0c0be25,getpastoneself.forum,available,1.99,,62,0,16,name.com,,
 2c40fd14-27f5-41df-b7e4-7642319ca65c,partitioned.forum,available,1.99,,48,2,11,name.com,,
+2c4c41f3-acce-4ecd-933f-3c01e0dc2cbc,insurance.forum,premium,,,80,43,9,,,
 2c733dbf-21b9-4fd6-8a4d-5964a23e9c67,seekers.forum,available,1.99,,58,15,7,name.com,,
 2cbff0df-4989-4e27-b465-da21398938f1,goalongwith.forum,available,1.99,,70,1,13,name.com,,
 2cc58ab6-a83b-4ce4-8217-6d8a59a022e3,compilers.forum,available,1.99,,56,4,9,name.com,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 54a94610-91e3-41b9-8a5a-e9d1431b0fc4,introductions.forum,available,1.99,,56,4,13,name.com,,
 54c6bbba-744a-4631-97ed-c55295b174fa,pours.forum,premium,87.5,,46,5,5,name.com,,
 54cb78d8-02dc-4e79-85c9-9fe218182f6a,backbreaking.forum,available,1.99,,54,1,13,name.com,,
-5503b2e5-a233-4b10-830a-f3d732d549d7,runwith.forum,available,1.99,,70,5,8,name.com,,
