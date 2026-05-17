@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .forum one-word domains fro
 
 **Public extract:** 1,000 rows · **Live catalog:** 12,508 domains · **Median ask:** $40.05 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-15  
+**Last updated:** 2026-05-17  
 **Canonical page:** `https://unique.domains/domains/tld/forum`  
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| popup.forum     | available | $1.99     | —             | 84             | 29     | 6      | name.com  |
-| gearup.forum    | available | $1.99     | —             | 80             | 16     | 7      | name.com  |
-| playon.forum    | available | $1.99     | —             | 80             | 14     | 7      | name.com  |
-| hangon.forum    | available | $1.99     | —             | 82             | 6      | 7      | name.com  |
-| makeit.forum    | available | $1.99     | —             | 82             | 22     | 7      | name.com  |
-| dogsick.forum   | available | $1.99     | —             | 90             | 1      | 7      | name.com  |
-| getlife.forum   | available | $1.99     | —             | 80             | 5      | 8      | name.com  |
-| messages.forum  | available | $1.99     | —             | 80             | 16     | 8      | name.com  |
-| headout.forum   | available | $1.99     | —             | 82             | 6      | 8      | name.com  |
-| Ryan.forum      | available | $49.98    | —             | 60             | 44     | 4      | namecheap |
-| donuts.forum    | premium   | $87.50    | —             | 54             | 62     | 6      | name.com  |
-| howto.forum     | available | $1.99     | —             | 76             | 35     | 6      | name.com  |
-| regions.forum   | premium   | $87.50    | —             | 64             | 59     | 7      | name.com  |
-| solutions.forum | available | $1.99     | —             | 56             | 31     | 9      | name.com  |
-| events.forum    | premium   | $87.50    | —             | 68             | 37     | 6      | name.com  |
-| homes.forum     | premium   | $437.50   | —             | 86             | 34     | 5      | name.com  |
-| backyard.forum  | available | $1.99     | —             | 80             | 27     | 9      | name.com  |
-| tickets.forum   | premium   | $87.50    | —             | 64             | 34     | 7      | name.com  |
-| Keith.forum     | available | $49.98    | —             | 66             | 25     | 5      | namecheap |
-| etc.forum       | premium   | $437.50   | —             | 58             | 34     | 3      | name.com  |
+| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar    |
+| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------ |
+| popup.forum     | available | $1.99     | —             | 84             | 28     | 6      | name.com     |
+| gearup.forum    | available | $1.99     | —             | 80             | 16     | 7      | name.com     |
+| playon.forum    | available | $1.99     | —             | 80             | 14     | 7      | name.com     |
+| hangon.forum    | available | $1.99     | —             | 82             | 6      | 7      | name.com     |
+| makeit.forum    | available | $1.99     | —             | 82             | 21     | 7      | name.com     |
+| dogsick.forum   | available | $1.99     | —             | 90             | 1      | 7      | name.com     |
+| getlife.forum   | available | $1.99     | —             | 80             | 5      | 8      | name.com     |
+| messages.forum  | available | $1.99     | —             | 80             | 16     | 8      | name.com     |
+| headout.forum   | available | $1.99     | —             | 82             | 6      | 8      | name.com     |
+| Ryan.forum      | available | $49.98    | —             | 60             | 44     | 4      | namecheap    |
+| children.forum  | resell    | $1.99     | —             | 68             | 19     | 8      | Dynadot, LLC |
+| donuts.forum    | premium   | $87.50    | —             | 54             | 62     | 6      | name.com     |
+| howto.forum     | available | $1.99     | —             | 76             | 33     | 6      | name.com     |
+| regions.forum   | premium   | $87.50    | —             | 64             | 59     | 7      | name.com     |
+| solutions.forum | available | $1.99     | —             | 56             | 31     | 9      | name.com     |
+| events.forum    | premium   | $87.50    | —             | 68             | 37     | 6      | name.com     |
+| homes.forum     | premium   | $437.50   | —             | 86             | 34     | 5      | name.com     |
+| backyard.forum  | available | $1.99     | —             | 80             | 27     | 9      | name.com     |
+| tickets.forum   | premium   | $87.50    | —             | 64             | 34     | 7      | name.com     |
+| Keith.forum     | available | $49.98    | —             | 66             | 25     | 5      | namecheap    |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .FORUM One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .FORUM One-Word Domains*. Version 2026-05-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
