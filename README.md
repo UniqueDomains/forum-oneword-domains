@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .forum one-word domains fro
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,508 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,508 domains · **Median ask:** $40.05 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,508 domains · **Median ask:** $57.96 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-27  
-**Canonical page:** `https://unique.domains/domains/tld/forum`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/forum`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .FORUM one-word domain
 
 ### Files
 
-- `forum.csv` — public CSV extract (1,000 rows)
-- `forum.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `forum.csv`, public CSV extract (1,000 rows)
+- `forum.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar    |
-| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------ |
-| popup.forum     | available | $1.99     | —             | 84             | 28     | 6      | name.com     |
-| gearup.forum    | available | $1.99     | —             | 80             | 16     | 7      | name.com     |
-| playon.forum    | available | $1.99     | —             | 80             | 14     | 7      | name.com     |
-| hangon.forum    | available | $1.99     | —             | 82             | 6      | 7      | name.com     |
-| makeit.forum    | available | $1.99     | —             | 82             | 21     | 7      | name.com     |
-| dogsick.forum   | available | $1.99     | —             | 90             | 1      | 7      | name.com     |
-| getlife.forum   | available | $1.99     | —             | 80             | 5      | 8      | name.com     |
-| messages.forum  | available | $1.99     | —             | 80             | 16     | 8      | name.com     |
-| headout.forum   | available | $1.99     | —             | 82             | 6      | 8      | name.com     |
-| Ryan.forum      | available | $49.98    | —             | 60             | 44     | 4      | namecheap    |
-| children.forum  | resell    | $1.99     | —             | 68             | 19     | 8      | Dynadot, LLC |
-| donuts.forum    | premium   | $87.50    | —             | 54             | 62     | 6      | name.com     |
-| howto.forum     | available | $1.99     | —             | 76             | 33     | 6      | name.com     |
-| regions.forum   | premium   | $87.50    | —             | 64             | 59     | 7      | name.com     |
-| solutions.forum | available | $1.99     | —             | 56             | 31     | 9      | name.com     |
-| events.forum    | premium   | $87.50    | —             | 68             | 37     | 6      | name.com     |
-| homes.forum     | premium   | $437.50   | —             | 86             | 34     | 5      | name.com     |
-| backyard.forum  | available | $1.99     | —             | 80             | 27     | 9      | name.com     |
-| tickets.forum   | premium   | $87.50    | —             | 64             | 34     | 7      | name.com     |
-| Keith.forum     | available | $49.98    | —             | 66             | 25     | 5      | namecheap    |
+| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar    |
+| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------ |
+| okay.forum    | premium   | $125      | $125          | high           | low    | 4      | name.com     |
+| ahuh.forum    | available | $1.99     | —             | high           | low    | 4      | name.com     |
+| deal.forum    | resell    | —         | —             | medium         | low    | 4      | NAMECHEAP    |
+| all.forum     | premium   | $125      | $125          | high           | medium | 3      | name.com     |
+| Fran.forum    | available | $1.99     | —             | medium         | low    | 4      | name.com     |
+| lemon.forum   | resell    | —         | —             | medium         | medium | 5      | Dynadot, LLC |
+| ant.forum     | premium   | $218.75   | —             | high           | medium | 3      | name.com     |
+| yall.forum    | available | $1.99     | —             | medium         | low    | 4      | name.com     |
+| doctor.forum  | resell    | —         | —             | high           | low    | 6      | Sav.com, LLC |
+| atp.forum     | premium   | $437.50   | —             | medium         | low    | 3      | name.com     |
+| alley.forum   | available | $1.99     | —             | medium         | low    | 5      | name.com     |
+| lawyer.forum  | resell    | —         | —             | medium         | low    | 6      | Sav.com, LLC |
+| Ava.forum     | premium   | $218.75   | —             | high           | medium | 3      | name.com     |
+| alot.forum    | available | $1.99     | —             | high           | low    | 5      | name.com     |
+| billion.forum | resell    | —         | —             | high           | low    | 7      | Porkbun LLC  |
+| bed.forum     | premium   | $87.50    | —             | high           | low    | 3      | name.com     |
+| child.forum   | available | $1.99     | —             | high           | low    | 5      | name.com     |
+| connect.forum | resell    | —         | —             | high           | medium | 7      | Sav.com, LLC |
+| but.forum     | premium   | $437.50   | —             | high           | low    | 3      | name.com     |
+| crisp.forum   | available | $44.99    | $44.99        | medium         | low    | 5      | name.com     |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection is entirely made up of one-word .forum domains. The strongest names usually match discussion-led use cases directly: topics, communities, interests, products, or audience groups. Examples here range from clear keywords like finals.forum and jewels.forum to broader brand-style words like popup.forum and useit.forum. When comparing these domains, focus first on whether the word naturally supports a forum context. Then check memorability, spelling clarity, singular versus plural meaning, and whether the term could create trademark friction. With a median ask of 40.05, entry price may look modest, so renewal burden and long-term relevance matter more than impulse buying.
+The .forum extension hosts one-word domain names built for communities, discussion boards, and niche interest sites. This list spans 12,508 domains with a median asking price near $58, giving both founders and investors a clear view of cost before deeper research. Because .forum is a newer, less mainstream extension, pricing tends to stay lower than legacy TLDs, though availability and renewal costs can vary widely across individual listings. When comparing these domains, focus on brandability, topical relevance, and how renewal costs compare to the median ask.
 
-- Best fit: words that naturally suit discussion or community use
-- Plural terms can work well for topic-led forum positioning
-- Low ask does not remove renewal or trademark risk
-- Favor clear spelling and obvious meaning over novelty
+- 12,508 one-word .forum domains available for comparison
+- Median asking price near $58 across this .forum selection
+- Ideal for community, forum, and discussion-based branding
+- Compare pricing and renewal costs before committing to a name
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .FORUM One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .FORUM One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
