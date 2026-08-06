@@ -1,10 +1,10 @@
-# Available .FORUM One-Word Domains (12,508)
+# Available .FORUM One-Word Domains (12,511)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C508%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C511%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .forum one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **12,508 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **12,511 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,508 domains · **Median ask:** $57.96 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,511 domains · **Median ask:** $52.99 · **High-demand under $2,500:** 24
 
-**Last updated:** 2026-07-07
+**Last updated:** 2026-08-06
 **Canonical page:** `https://unique.domains/domains/tld/forum`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar    |
-| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------ |
-| okay.forum    | premium   | $125      | $125          | high           | low    | 4      | name.com     |
-| ahuh.forum    | available | $1.99     | —             | high           | low    | 4      | name.com     |
-| deal.forum    | resell    | —         | —             | medium         | low    | 4      | NAMECHEAP    |
-| all.forum     | premium   | $125      | $125          | high           | medium | 3      | name.com     |
-| Fran.forum    | available | $1.99     | —             | medium         | low    | 4      | name.com     |
-| lemon.forum   | resell    | —         | —             | medium         | medium | 5      | Dynadot, LLC |
-| ant.forum     | premium   | $218.75   | —             | high           | medium | 3      | name.com     |
-| yall.forum    | available | $1.99     | —             | medium         | low    | 4      | name.com     |
-| doctor.forum  | resell    | —         | —             | high           | low    | 6      | Sav.com, LLC |
-| atp.forum     | premium   | $437.50   | —             | medium         | low    | 3      | name.com     |
-| alley.forum   | available | $1.99     | —             | medium         | low    | 5      | name.com     |
-| lawyer.forum  | resell    | —         | —             | medium         | low    | 6      | Sav.com, LLC |
-| Ava.forum     | premium   | $218.75   | —             | high           | medium | 3      | name.com     |
-| alot.forum    | available | $1.99     | —             | high           | low    | 5      | name.com     |
-| billion.forum | resell    | —         | —             | high           | low    | 7      | Porkbun LLC  |
-| bed.forum     | premium   | $87.50    | —             | high           | low    | 3      | name.com     |
-| child.forum   | available | $1.99     | —             | high           | low    | 5      | name.com     |
-| connect.forum | resell    | —         | —             | high           | medium | 7      | Sav.com, LLC |
-| but.forum     | premium   | $437.50   | —             | high           | low    | 3      | name.com     |
-| crisp.forum   | available | $44.99    | $44.99        | medium         | low    | 5      | name.com     |
+| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
+| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
+| ahuh.forum    | available | $1.99     | —             | high           | low    | 4      | name.com        |
+| deal.forum    | resell    | —         | —             | medium         | low    | 4      | NAMECHEAP       |
+| all.forum     | premium   | $125      | $125          | high           | medium | 3      | name.com        |
+| Fran.forum    | available | $1.99     | —             | medium         | low    | 4      | name.com        |
+| lemon.forum   | resell    | —         | —             | medium         | medium | 5      | Dynadot, LLC    |
+| ant.forum     | premium   | $218.75   | —             | high           | medium | 3      | name.com        |
+| lvii.forum    | available | $1.80     | $49.98        | low            | low    | 4      | namecheap       |
+| doctor.forum  | resell    | —         | —             | high           | low    | 6      | Sav.com, LLC    |
+| atp.forum     | premium   | $437.50   | —             | medium         | low    | 3      | name.com        |
+| xlii.forum    | available | $1.80     | $49.98        | low            | low    | 4      | namecheap       |
+| lawyer.forum  | resell    | —         | —             | medium         | low    | 6      | Sav.com, LLC    |
+| Ava.forum     | premium   | $218.75   | —             | high           | medium | 3      | name.com        |
+| yall.forum    | available | $1.99     | —             | medium         | low    | 4      | name.com        |
+| billion.forum | resell    | —         | —             | high           | low    | 7      | Porkbun LLC     |
+| bed.forum     | premium   | $87.50    | —             | high           | low    | 3      | name.com        |
+| alley.forum   | available | $1.99     | —             | medium         | low    | 5      | name.com        |
+| connect.forum | resell    | —         | —             | high           | medium | 7      | Sav.com, LLC    |
+| but.forum     | premium   | $437.50   | —             | high           | low    | 3      | name.com        |
+| alot.forum    | available | $1.99     | —             | high           | low    | 5      | name.com        |
+| dislike.forum | resell    | —         | —             | high           | low    | 7      | Spaceship, Inc. |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 12,508 live domains                        |
+| 1,000-row public sample | 12,511 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 0 high-demand names under $2,500           |
+| Basic exported fields   | 24 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .FORUM One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .FORUM One-Word Domains*. Version 2026-08-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
