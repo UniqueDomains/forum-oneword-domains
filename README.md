@@ -1,10 +1,10 @@
-# Available .FORUM One-Word Domains (15,607)
+# Available .FORUM One-Word Domains (16,039)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-15%2C607%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-16%2C039%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .forum one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **15,607 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **16,039 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 15,607 domains · **Median ask:** $43.85 · **High-demand under $2,500:** 25
+**Public extract:** 1,000 rows · **Live catalog:** 16,039 domains · **Median ask:** $43.09 · **High-demand under $2,500:** 25
 
-**Last updated:** 2026-08-14
+**Last updated:** 2026-08-15
 **Canonical page:** `https://unique.domains/domains/tld/forum`
 **Best for:** founders, investors, studios
 
@@ -64,6 +64,9 @@ print(df.head())
 
 | domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
 | ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
+| okay.forum    | premium   | $125      | $125          | high           | low    | 4      | name.com        |
+| one.forum     | premium   | $2,500    | $2,500        | high           | medium | 3      | name.com        |
+| room.forum    | premium   | $875      | —             | high           | low    | 4      | name.com        |
 | ahuh.forum    | available | $1.99     | —             | high           | low    | 4      | name.com        |
 | deal.forum    | resell    | —         | —             | medium         | low    | 4      | NAMECHEAP       |
 | all.forum     | premium   | $125      | $125          | high           | medium | 3      | name.com        |
@@ -81,9 +84,6 @@ print(df.head())
 | bed.forum     | premium   | $87.50    | —             | high           | low    | 3      | name.com        |
 | alley.forum   | available | $1.99     | —             | medium         | low    | 5      | name.com        |
 | dislike.forum | resell    | —         | —             | high           | low    | 7      | Spaceship, Inc. |
-| but.forum     | premium   | $437.50   | —             | high           | low    | 3      | name.com        |
-| alot.forum    | available | $1.99     | —             | high           | low    | 5      | name.com        |
-| robotic.forum | resell    | —         | —             | high           | low    | 7      | Spaceship, Inc. |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 15,607 live domains                        |
+| 1,000-row public sample | 16,039 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 25 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .FORUM One-Word Domains*. Version 2026-08-14. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .FORUM One-Word Domains*. Version 2026-08-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
