@@ -3,7 +3,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 0c764891-6f9d-464b-9b9b-84a41d496832,imagine.forum,premium,87.5,,high,medium,7,name.com,,,
 c218a8c6-53aa-4351-a839-3e229efe65a3,complacently.forum,available,1.99,,medium,low,12,name.com,,,
 2774bc01-a199-47a6-ab46-fb9b764ef920,most.forum,premium,87.5,,high,low,4,name.com,,,
-cf5261bd-748b-4608-9909-04815c503b08,time.forum,premium,437.5,,high,medium,4,name.com,,,
+cf5261bd-748b-4608-9909-04815c503b08,time.forum,premium,640,640,high,medium,4,namesilo,,,17/09/2026 10:16
 d7b7e432-83c5-408c-be12-d39e065a7d9c,idiotic.forum,available,44.99,44.99,medium,low,7,name.com,,,
 3be0860f-f92b-4110-8a22-581eaba78347,addicted.forum,available,44.99,44.99,high,low,8,name.com,,,
 c7933242-84e5-43c8-9b3f-b83afa67b845,oneman.forum,available,1.99,,low,low,7,name.com,,,
@@ -13,7 +13,7 @@ c7933242-84e5-43c8-9b3f-b83afa67b845,oneman.forum,available,1.99,,low,low,7,name
 f33fc4d9-3989-4808-a3c8-6b31d3d6f0ed,takeaknee.forum,available,1.99,,low,low,11,name.com,,,
 58fdcf95-0868-4a17-9958-f874dc2f3694,satisfy.forum,available,1.99,,high,low,7,name.com,,,
 9dd92d13-e01e-415d-9f69-c5c6f345c86f,playoff.forum,available,1.99,,high,low,8,name.com,,,
-8aef3915-359a-408a-b579-e40f2a7534c5,atomic.forum,premium,87.5,,high,medium,6,name.com,,,
+8aef3915-359a-408a-b579-e40f2a7534c5,atomic.forum,premium,116,116,high,medium,6,namesilo,,,17/09/2026 10:41
 deb83cc5-ef7c-47b4-8f0b-99d6924bbc4a,wordofmouth.forum,available,1.99,,low,low,13,name.com,,,
 29ca1ca1-e2c0-4bc8-ab3f-ad9f5159bfe5,ancestral.forum,available,1.8,49.98,low,low,9,namecheap,,,
 02b398b6-2238-460e-93c6-43e471aa14f6,compensate.forum,available,1.99,,high,low,10,name.com,,,
