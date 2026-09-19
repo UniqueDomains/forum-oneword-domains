@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .forum one-word domains fro
 
 **Public extract:** 1,000 rows · **Live catalog:** 27,918 domains · **Median ask:** $34.19 · **High-demand under $2,500:** 34
 
-**Last updated:** 2026-09-18
+**Last updated:** 2026-09-19
 **Canonical page:** `https://unique.domains/domains/tld/forum`
 **Best for:** founders, investors, studios
 
@@ -64,6 +64,7 @@ print(df.head())
 
 | domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
 | ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
+| time.forum    | premium   | $640      | $640          | high           | medium | 4      | namesilo        |
 | ahuh.forum    | available | $1.99     | —             | high           | low    | 4      | name.com        |
 | deal.forum    | resell    | —         | —             | medium         | low    | 4      | NAMECHEAP       |
 | all.forum     | premium   | $125      | $125          | high           | medium | 3      | name.com        |
@@ -83,7 +84,6 @@ print(df.head())
 | dislike.forum | resell    | —         | —             | high           | low    | 7      | Spaceship, Inc. |
 | but.forum     | premium   | $437.50   | —             | high           | low    | 3      | name.com        |
 | alot.forum    | available | $1.99     | —             | high           | low    | 5      | name.com        |
-| robotic.forum | resell    | —         | —             | high           | low    | 7      | Spaceship, Inc. |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .FORUM One-Word Domains*. Version 2026-09-18. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .FORUM One-Word Domains*. Version 2026-09-19. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
