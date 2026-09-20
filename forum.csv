@@ -1,5 +1,5 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at,status_verified_at
-2fa5fb48-cabf-4485-b738-df89308b9734,YubaCity.forum,available,1.99,,medium,low,9,name.com,,,
+2fa5fb48-cabf-4485-b738-df89308b9734,yubacity.forum,available,1.99,,medium,low,9,name.com,,,
 0c764891-6f9d-464b-9b9b-84a41d496832,imagine.forum,premium,87.5,,high,medium,7,name.com,,,
 c218a8c6-53aa-4351-a839-3e229efe65a3,complacently.forum,available,1.99,,medium,low,12,name.com,,,
 2774bc01-a199-47a6-ab46-fb9b764ef920,most.forum,premium,87.5,,high,low,4,name.com,,,
@@ -62,18 +62,18 @@ bbc44e2c-1737-4339-b694-bb0729210b93,avaricious.forum,available,1.8,49.98,low,lo
 473dba35-1686-418e-bd06-501469a2674b,lip.forum,premium,437.5,,high,low,3,name.com,,,
 69e14757-021c-4fde-bd4a-8ac703c1b60d,bagdad.forum,available,1.99,,medium,low,6,name.com,,,
 2accad36-e4fd-4896-8dcf-9faa0d9affcd,guide.forum,premium,437.5,,high,low,5,name.com,,,
-aa9a3db9-87a5-4fed-9ddd-fdee7b1d27c5,IDK.forum,premium,87.5,,medium,low,3,name.com,,,
+aa9a3db9-87a5-4fed-9ddd-fdee7b1d27c5,idk.forum,premium,87.5,,medium,low,3,name.com,,,
 44820595-e806-4c41-b3b5-e448a6d48837,sweptback.forum,available,1.8,49.98,low,low,9,namecheap,,,08/08/2026 06:42
 44484690-6ce3-44ff-87d1-459516ecfc9c,whitevinegar.forum,available,1.99,,low,low,13,name.com,,,
 0ac92f91-574c-49ed-9792-2b9180716233,minimum.forum,premium,87.5,,high,low,7,name.com,,,
 9f546fbc-72b9-459a-8157-a9ee67795aa4,robotic.forum,resell,,,high,low,7,"Spaceship, Inc.",25/08/2025 17:17,25/08/2026 17:17,
 53d6752e-0d5b-455a-b137-cd33bafc1945,laboratory.forum,available,1.99,,high,low,10,name.com,,,
-038d3bc6-a4c9-46d5-9d29-324e11943cc2,white.forum,premium,437.5,625,medium,medium,5,name.com,,,08/09/2026 05:57
+038d3bc6-a4c9-46d5-9d29-324e11943cc2,white.forum,premium,437.5,625,medium,low,5,name.com,,,19/09/2026 14:26
 df3172f6-9ed2-42de-b839-e3e566d984e6,midwinter.forum,available,1.99,,medium,low,10,name.com,,,
 1cc780a7-454d-4aeb-8165-b87c661f1381,atbest.forum,available,1.99,,medium,low,7,name.com,,,
 ec6f81df-f503-4429-a84c-7a2d793eb9ea,front.forum,premium,87.5,,high,low,5,name.com,,,
 10e92c93-bf6d-490d-8b28-2c0bd37c5416,pentad.forum,available,1.8,49.98,low,low,6,namecheap,,,
-bf790936-86bb-4072-8595-554a917dbe9f,GermanRepublic.forum,available,1.99,,medium,low,15,name.com,,,
+bf790936-86bb-4072-8595-554a917dbe9f,germanrepublic.forum,available,1.99,,medium,low,15,name.com,,,
 cf559d14-d1c8-4493-83d9-0377601c9727,jerking.forum,available,1.8,49.98,low,low,7,namecheap,,,06/08/2026 21:58
 66d962a5-639e-46d6-b4af-d59d039d0bb5,appealable.forum,available,1.8,49.98,low,low,10,namecheap,,,06/08/2026 05:46
 34d079da-15b7-46dc-bcad-6c7d5e1ad1b5,anti.forum,premium,87.5,125,medium,low,4,name.com,,,
@@ -94,7 +94,7 @@ cb7ab9c5-4990-4f67-aae7-30a61246b438,xcv.forum,premium,87.5,125,low,low,3,name.c
 b568aaab-04dc-4eda-a609-f6a9c374cba5,admissive.forum,available,1.8,49.98,low,low,9,namecheap,,,
 cdcd6e3a-9044-4811-a958-5850a7cbddbf,gaspowered.forum,available,1.99,,medium,low,11,name.com,,,
 6f742084-7a99-4d96-85b3-49af95b88ad1,lettertotheeditor.forum,available,1.99,,high,low,20,name.com,,,
-d736b601-f54a-4484-b5e8-391928ffacc2,discipline.forum,available,1.8,49.98,medium,low,10,namecheap,,,14/09/2026 02:51
+d736b601-f54a-4484-b5e8-391928ffacc2,discipline.forum,available,2.19,34.99,medium,low,10,namesilo,,,19/09/2026 11:34
 1e0aef11-be65-4759-bdd7-b53fafb68190,prenuptial.forum,available,1.99,,high,low,10,name.com,,,
 d77e68a8-f485-45e4-8d08-19bc6a016b12,bethere.forum,available,1.99,,medium,low,8,name.com,,,
 699cf67d-8469-44ac-bced-52dd9dd95522,facetious.forum,available,1.8,49.98,low,low,9,namecheap,,,08/08/2026 14:39
@@ -102,7 +102,7 @@ e2ce8e64-4ebd-4743-a95f-e54e2d730bd9,truant.forum,available,1.8,49.98,low,low,6,
 044400cd-c67f-4872-933a-0dd121315272,bigger.forum,available,1.99,,high,low,6,name.com,,,
 9bda6cad-9434-4474-a502-ee5a3ee0bbc4,xii.forum,premium,125,125,medium,low,3,name.com,,,
 0d7736db-10fa-4569-a463-11662fc5f172,afrikander.forum,available,1.8,49.98,low,low,10,namecheap,,,
-925a840f-2f4d-4b6b-9f4b-9f1992b301b9,Westwood.forum,available,1.99,,low,low,8,name.com,,,
+925a840f-2f4d-4b6b-9f4b-9f1992b301b9,westwood.forum,available,1.99,,low,low,8,name.com,,,
 bf8e4d1c-73cf-4af8-a224-16927bf2cf49,affordable.forum,available,44.99,44.99,high,low,10,name.com,,,
 ed2e3ed0-53c9-4754-998d-beaddee305e2,moviefilm.forum,available,1.99,,high,low,10,name.com,,,
 02d85ffa-cea9-4767-9074-25d75f378929,letoneloose.forum,available,1.99,,high,low,13,name.com,,,
@@ -124,7 +124,7 @@ b9c4159f-8aa2-4c30-ad11-b9fff493f8d0,baking.forum,premium,87.5,,high,low,6,name.
 fded846e-f3ad-4969-9f8a-39bc5e44a652,facts.forum,premium,116,116,medium,low,5,namesilo,,,19/09/2026 02:38
 088fddfe-88c6-4b28-808e-3c7a15262523,inspirational.forum,available,1.99,,high,low,13,name.com,,,
 afc4578e-da16-4b1b-b1d2-1c804b663ded,fuckster.forum,available,1.99,,medium,low,8,name.com,,,
-497002a4-8294-4c39-adc3-97076486f296,WestEnd.forum,available,1.99,,medium,low,8,name.com,,,
+497002a4-8294-4c39-adc3-97076486f296,westend.forum,available,1.99,,medium,low,8,name.com,,,
 c4d23f08-7da4-4b6f-bb0f-cdd6ff409b65,became.forum,available,1.99,,medium,low,6,name.com,,,
 851c76a6-d05c-4329-a90b-0b0a65980ae3,assertable.forum,available,1.8,49.98,low,low,10,namecheap,,,
 24f4dc77-0c49-4db8-969c-4a4c679ae876,grayheaded.forum,available,1.99,,medium,low,11,name.com,,,
@@ -138,18 +138,18 @@ e530ac27-0aac-4ce3-aab8-60c5bf8d39ba,authorityfigure.forum,available,1.99,,mediu
 d7c7c087-e548-4da4-a43a-fba31a06dcbc,nursery.forum,available,1.99,,medium,low,7,name.com,,,
 8ec94130-960b-49b8-9207-9a386db809a8,democratic.forum,available,44.99,44.99,medium,low,10,name.com,,,
 15d48466-6174-4965-b36d-5879ff289e84,lcd.forum,premium,437.5,,high,low,3,name.com,,,
-70dff342-0112-4bf1-b835-7455f356a14b,StAugustine.forum,available,1.99,,medium,low,13,name.com,,,
+70dff342-0112-4bf1-b835-7455f356a14b,staugustine.forum,available,1.99,,medium,low,13,name.com,,,
 e267ce67-d9aa-4f71-9275-cb9ffa9a06fb,revered.forum,available,1.99,,high,low,7,name.com,,,
 e985f32d-8908-4108-83e5-c8a947e00251,tothinkthat.forum,available,1.99,,low,low,13,name.com,,,
 48086075-d74e-498d-acc4-5a5d4890bdae,ardent.forum,available,1.8,49.98,medium,low,6,namecheap,,,06/08/2026 16:11
-b2135945-5bd9-440b-856d-0f8b166112af,deal.forum,resell,,,medium,low,4,NAMECHEAP,04/06/2025 19:43,04/06/2027 19:43,13/09/2026 03:03
+b2135945-5bd9-440b-856d-0f8b166112af,deal.forum,resell,,,low,low,4,NAMECHEAP,04/06/2025 19:43,04/06/2027 19:43,19/09/2026 16:06
 01ff1ddb-282a-4b78-a8c3-15a07cb7b7ee,noon.forum,premium,87.5,,high,low,4,name.com,,,
 8ccfacca-6ac9-4409-b50c-e3d1161a52ce,sadness.forum,available,1.99,,medium,low,7,name.com,,,
 b10bd254-771b-46a0-b942-bded4e13af85,andrew.forum,premium,437.5,,high,medium,6,name.com,,,
 dd9e0e5e-4ff9-4bd1-a600-0e8e89402d24,southern.forum,premium,437.5,,high,low,8,name.com,,,
 6995690c-1286-44bc-8104-2564ae536ba0,seated.forum,available,1.99,,high,low,6,name.com,,,
 7eecac2d-c4c5-4439-90b1-c6f753c199df,abysmal.forum,available,1.8,49.98,low,low,7,namecheap,,,
-aed08888-d06a-4391-a9c6-694e4bd75403,PlayStation.forum,available,,,high,low,11,,,,
+aed08888-d06a-4391-a9c6-694e4bd75403,playstation.forum,available,,,high,low,11,,,,
 09e571c5-816d-409c-85f2-23c8ec94462b,inquestion.forum,available,1.99,,medium,low,11,name.com,,,
 e75db327-f31e-41c4-af1f-213ca2f6df15,portofentry.forum,available,1.99,,low,low,13,name.com,,,
 c645542a-98df-457f-b8d8-7be6f21d3456,sag.forum,premium,437.5,,medium,low,3,name.com,,,
@@ -163,10 +163,10 @@ fe7c1cb6-408e-4216-a764-78446e06587d,inthethickofit.forum,available,1.99,,medium
 ef4b1235-8380-4739-91b8-e94d86c73fc3,appositive.forum,available,1.8,49.98,low,low,10,namecheap,,,06/08/2026 08:04
 54b59d36-eacd-43c8-8392-903988cafa7c,anaglyphic.forum,available,1.8,49.98,low,low,10,namecheap,,,
 727bc042-42fa-4666-b710-3a1e5b8e739e,didnt.forum,premium,87.5,,medium,low,5,name.com,,,
-f6957fa6-fda5-4652-8dde-4384a380eeb1,FrenchRepublic.forum,available,1.99,,medium,medium,15,name.com,,,
+f6957fa6-fda5-4652-8dde-4384a380eeb1,frenchrepublic.forum,available,1.99,,medium,medium,15,name.com,,,
 9f5fea50-a54e-4720-ac9e-1fee42c2f5da,baptismal.forum,available,1.8,49.98,low,low,9,namecheap,,,08/08/2026 15:05
 fff53273-114f-43bf-878d-1619a3c4f62c,autoerotic.forum,available,1.8,49.98,low,low,10,namecheap,,,07/08/2026 20:01
-7c9f38f9-59d1-493b-a5bd-994cc9f2a074,Ionlyworkhere.forum,available,1.99,,medium,low,16,name.com,,,
+7c9f38f9-59d1-493b-a5bd-994cc9f2a074,ionlyworkhere.forum,available,1.99,,medium,low,16,name.com,,,
 54bfab16-3996-4294-bcea-7e4d46de5a5c,event.forum,premium,97.5,325,high,medium,5,namecheap,,,
 90461752-ed3d-46ff-8adb-ca32d6bfde57,distant.forum,available,44.99,44.99,medium,low,7,name.com,,,
 09d73726-25a9-41ad-8bae-838275e7745c,anumberof.forum,available,1.99,,medium,low,11,name.com,,,
@@ -199,7 +199,7 @@ af881561-ce9b-4638-be6e-bfbe61ebb8e6,admittable.forum,available,1.8,49.98,low,lo
 92d993c1-6ece-4c45-a7e1-523d521c8702,daylight.forum,premium,87.5,,high,low,8,name.com,,,
 9d1c4a2b-5a9e-4b24-98c4-e52ea99c641c,trend.forum,premium,87.5,,high,low,5,name.com,,,
 9be7840b-542b-4173-9f98-9804359b345e,haveseenthismovie.forum,available,1.99,,medium,low,20,name.com,,,
-eae29717-99d8-460e-8271-5f59b806d4af,AnnaKournikova.forum,available,1.99,,high,low,15,name.com,,,
+eae29717-99d8-460e-8271-5f59b806d4af,annakournikova.forum,available,1.99,,high,low,15,name.com,,,
 19351b4f-789f-4e08-a1b3-975c3f398826,drinking.forum,available,1.99,,medium,low,8,name.com,,,
 2b40ca08-23a8-47e7-8ee2-b64a0ec2f4c1,deskorganizer.forum,available,1.99,,medium,low,14,name.com,,,
 04f6bcc3-51b9-4503-8cbb-0de052d3b11b,relatedto.forum,available,1.99,,medium,low,10,name.com,,,
@@ -213,12 +213,12 @@ ce52a1b6-b50b-42b0-9af3-c018938ab32d,nondrinker.forum,available,1.8,49.98,low,lo
 23969c89-e510-4371-8328-66c70cc5c6c0,lighten.forum,available,1.99,,high,low,7,name.com,,,
 aa18a515-cdc9-4999-9f15-b49d01149f7a,lowly.forum,premium,87.5,125,low,low,5,name.com,,,08/08/2026 21:38
 38236749-f65e-4b69-b7ca-acfefbaa38a7,insteadof.forum,available,1.99,,medium,low,10,name.com,,,
-ef70267c-7bea-4ea3-9da5-7e63b0cd923f,square.forum,premium,116,116,medium,medium,6,namesilo,,,13/09/2026 03:00
+ef70267c-7bea-4ea3-9da5-7e63b0cd923f,square.forum,premium,130,130,low,low,6,namecheap,,,19/09/2026 16:04
 aa7e7273-ade1-424b-ab82-2f2a787bfa70,feather.forum,available,1.99,,medium,low,7,name.com,,,
 a472b60d-ba91-43f7-a511-26c58dcde0e3,ambivalent.forum,available,1.8,49.98,low,low,10,namecheap,,,
 c859a7b6-8841-4a00-99c7-71ddb07a7f24,mainman.forum,available,1.99,,high,low,8,name.com,,,
 2dae79f6-93e9-4424-b611-4f4e94f1e1c3,junior.forum,available,1.99,,high,low,6,name.com,,,
-d986a767-6f5f-4c69-87c8-319d06ce66a2,Rihanna.forum,available,1.99,,high,low,7,name.com,,,
+d986a767-6f5f-4c69-87c8-319d06ce66a2,rihanna.forum,available,1.99,,high,low,7,name.com,,,
 cdb16701-8121-4366-8b71-738e50b8f2c0,everybodyelse.forum,available,1.99,,medium,low,14,name.com,,,
 66e3a9a9-c371-4152-a91d-51a53c523481,grocerylist.forum,available,1.99,,medium,low,12,name.com,,,
 1c2f5a3a-7055-4280-a5f1-0ca4b4dfce8f,rulesarerules.forum,available,1.99,,medium,low,15,name.com,,,
@@ -243,11 +243,10 @@ cb0fe912-230f-425e-bf6e-19c458affe1b,okay.forum,premium,130,130,high,low,4,namec
 135af559-b874-4c28-8096-1d5346b5e10d,china.forum,available,,,high,low,5,,,,
 34146933-cd5a-46ba-98ef-4923a8bfebfe,affiliation.forum,available,1.99,,high,low,11,name.com,,,
 fdf3fc40-cdb7-414d-9d83-bddab5c7858e,dive.forum,premium,87.5,,high,low,4,name.com,,,
-816e834e-63ed-4b3e-b786-424ea8a85a3b,unlimited.forum,resell,,,high,low,9,Porkbun LLC,20/07/2023 10:35,20/07/2026 23:59,
 2f6983da-7582-45d1-a8e7-d8db128efdc4,worst.forum,premium,87.5,,medium,low,5,name.com,,,
-88f9f009-561a-409f-a6c2-e33328e25d63,begin.forum,premium,87.5,125,medium,low,5,name.com,,,15/09/2026 05:53
+88f9f009-561a-409f-a6c2-e33328e25d63,begin.forum,premium,116,116,medium,low,5,namesilo,,,19/09/2026 05:29
 b9917e06-2ef5-4809-8eb1-0f8a4bfaffae,grouchy.forum,available,1.8,49.98,low,low,7,namecheap,,,08/08/2026 07:52
-3a3b46c2-cdce-48a4-b5fc-7349b4ab3728,WestHaven.forum,available,1.99,,low,low,10,name.com,,,
+3a3b46c2-cdce-48a4-b5fc-7349b4ab3728,westhaven.forum,available,1.99,,low,low,10,name.com,,,
 de785116-7d5a-4f50-8cea-dd8af5b49658,standup.forum,available,1.8,49.98,medium,low,8,namecheap,,,10/09/2026 18:33
 fcbda111-af99-4e2d-8527-4e3e0f983b28,closethedoor.forum,available,1.99,,high,low,14,name.com,,,
 ab59ffb7-fe5f-4d46-b48e-9f6d80b9c9bb,sanative.forum,available,1.8,49.98,low,low,8,namecheap,,,
@@ -281,10 +280,10 @@ be19c091-6f0c-4723-9612-faadb2a9dc01,arriving.forum,available,1.99,,medium,low,8
 4e8a9017-1719-4493-be68-8346a2ba3ea3,restrain.forum,available,1.99,,medium,low,8,name.com,,,
 cac9678c-4bc8-4c3c-80ea-c763d3cf26d4,icon.forum,premium,437.5,,high,medium,4,name.com,,,
 8ff1b5e2-3db7-4859-9b1f-c648bcd58bb7,letterofindemnity.forum,available,1.99,,medium,low,19,name.com,,,
-fa72acf9-0690-4986-b608-78c3257dc575,Bluetooth.forum,available,1.99,,high,low,9,name.com,,,
+fa72acf9-0690-4986-b608-78c3257dc575,bluetooth.forum,available,1.99,,high,low,9,name.com,,,
 2862f022-c41b-496c-9ea3-c8ecc03f42ef,increase.forum,available,1.99,,high,low,8,name.com,,,
 e1f8055e-ecdd-4561-9d13-749f49b6e80d,manual.forum,premium,437.5,,medium,low,6,name.com,,,
-fb066a33-d4db-4156-9854-0a7288ce6668,idiot.forum,premium,116,116,low,low,5,namesilo,,,15/09/2026 00:52
+fb066a33-d4db-4156-9854-0a7288ce6668,idiot.forum,premium,116,116,low,low,5,namesilo,,,19/09/2026 09:51
 4632d7e1-740c-4947-885c-e66ca287cae3,one.forum,premium,2500,2500,high,medium,3,name.com,,,
 f272ff34-c10d-4fcd-9445-c6d679248e04,attraction.forum,available,1.99,,high,low,10,name.com,,,
 99901018-a768-4465-a7c5-46beef7ed20e,chiefjustice.forum,available,1.99,,medium,low,13,name.com,,,
@@ -312,16 +311,15 @@ c805f0c8-2cfd-41aa-9977-0385b6e25d2e,notatall.forum,available,1.99,,high,low,10,
 4c44f41e-cfbb-4f4c-9e48-e3dc0af70585,adhoc.forum,available,1.8,49.98,low,low,6,namecheap,,,
 0301ca3e-0001-4707-af94-a64a5889a969,repeat.forum,available,44.99,44.99,high,low,6,name.com,,,
 91a289f2-4087-4ece-ac00-9b2a24329124,gourmet.forum,premium,87.5,,high,low,7,name.com,,,
-8f007b3f-d77b-40f9-8ddf-0c582539357d,Volvo.forum,premium,87.5,,high,low,5,name.com,,,
+8f007b3f-d77b-40f9-8ddf-0c582539357d,volvo.forum,premium,87.5,,high,low,5,name.com,,,
 1bebb707-0e3a-4d98-aaad-3ac0ed75c96c,creepy.forum,available,44.99,44.99,medium,low,6,name.com,,,
 bee74ba7-aa18-4459-9dc6-80887404133b,latter.forum,available,1.99,,high,low,6,name.com,,,
 b5dc8bf2-959a-4c3b-a141-aaff2130b46b,hermitical.forum,available,1.8,49.98,low,low,10,namecheap,,,
 e8645f4e-a3be-4c7c-91fe-ebeb2684990f,fortytwo.forum,available,1.8,49.98,low,low,9,namecheap,,,
-b9714f4c-b6d5-4676-b95c-47f1d8dba1f1,Irishhospitality.forum,available,1.99,,high,low,17,name.com,,,
+b9714f4c-b6d5-4676-b95c-47f1d8dba1f1,irishhospitality.forum,available,1.99,,high,low,17,name.com,,,
 ad48cf97-58e4-407f-a217-7df178bab6e9,lookatme.forum,available,1.99,,medium,low,10,name.com,,,
 41146e11-a439-4389-8a88-b9563cc1552e,stations.forum,available,1.99,,medium,low,8,name.com,,,
 468e2530-2915-4bc0-b15a-935a26c84d58,singletree.forum,available,1.99,,low,low,11,name.com,,,
-50ca3fb6-764f-4f8a-9426-483771d4166f,doctor.forum,resell,,,high,low,6,"Sav.com, LLC",22/07/2024 11:59,22/07/2026 11:59,
 529e812a-4e39-4063-8590-aa525feaf806,greet.forum,premium,437.5,,high,low,5,name.com,,,
 ce17e386-ae88-454c-8934-c44720606b12,buttin.forum,available,1.8,49.98,medium,low,7,namecheap,,,08/09/2026 04:04
 b8fc05b6-7d1e-4a89-9f8f-3fc04250d76a,fiftysix.forum,available,1.8,49.98,low,low,9,namecheap,,,
@@ -357,7 +355,7 @@ b5138861-b367-44e1-8453-5c7fd09d4f15,snore.forum,premium,87.5,,high,low,5,name.c
 e63668da-a799-4195-9233-52a751689ee4,reassuringly.forum,available,1.99,,medium,low,12,name.com,,,
 42d4a2af-ccf1-49bb-846d-0048c4519df8,sitting.forum,available,1.99,,high,low,7,name.com,,,
 20b24f01-818d-4f1b-963d-744f11a6e69b,trial.forum,premium,437.5,,high,low,5,name.com,,,
-06e9230b-6f79-434f-b52d-0f2e04fbdf6d,wall.forum,premium,87.5,,high,low,4,name.com,,,
+06e9230b-6f79-434f-b52d-0f2e04fbdf6d,wall.forum,premium,116,116,low,low,4,namesilo,,,19/09/2026 13:29
 32057365-9578-4f10-b55f-bedb947a50f9,activistic.forum,available,1.8,49.98,low,low,10,namecheap,,,
 5d57069a-5def-4ed6-b3fd-238153e23a08,taco.forum,premium,87.5,,high,low,4,name.com,,,
 b3a82b33-8697-4f77-96b8-18697529179c,fatigue.forum,available,1.99,,high,low,7,name.com,,,
@@ -370,7 +368,7 @@ e30c69b5-e483-4ce0-ae3c-b36861fa7f7f,stable.forum,premium,87.5,,high,low,6,name.
 9022e424-ed42-4a85-8811-2c8b7349bc40,bastioned.forum,available,1.8,49.98,low,low,9,namecheap,,,09/08/2026 00:12
 304a5324-af6a-43af-807f-5fc0903f058c,breathoffreshair.forum,available,1.99,,high,low,19,name.com,,,
 00069366-c2cd-49e6-911f-c439566163dc,musiccenter.forum,available,1.99,,high,low,12,name.com,,,
-e7aec90b-b7be-4425-9d51-b41242940ba7,RomanCatholic.forum,available,1.99,,high,low,14,name.com,,,
+e7aec90b-b7be-4425-9d51-b41242940ba7,romancatholic.forum,available,1.99,,high,low,14,name.com,,,
 acb5262f-e2fc-406b-9784-3ccfaf9b08c6,bemused.forum,available,1.8,49.98,low,low,7,namecheap,,,07/08/2026 11:47
 503dc68c-efd5-4924-9c49-116d163e5b14,theseones.forum,available,1.99,,low,low,10,name.com,,,
 9b4fb68d-4f88-4fa3-8118-4cbabd0f3703,pointy.forum,available,1.99,,high,low,6,name.com,,,
@@ -385,7 +383,7 @@ cc107956-9ae1-4a0f-90b1-cbb2f7b8ad83,heads.forum,premium,87.5,,high,low,5,name.c
 2124c7ba-c051-45af-b8a3-30b11bdd4250,navy.forum,premium,87.5,,high,low,4,name.com,,,
 8936c16f-cb4c-41f2-b780-a73766afbad1,toast.forum,premium,87.5,,medium,low,5,name.com,,,
 8587e717-72de-4c11-a4b1-cc61db22f401,hic.forum,premium,87.5,,high,low,3,name.com,,,
-be8ee9e0-d02d-4276-a15c-b99b7026852a,naming.forum,available,1.99,,high,low,6,name.com,,,
+be8ee9e0-d02d-4276-a15c-b99b7026852a,naming.forum,available,2.19,34.99,medium,low,6,namesilo,,,19/09/2026 13:00
 b749b318-df1b-45e1-be50-c3efc7aefd89,baggagecheck.forum,available,1.99,,high,low,13,name.com,,,
 74fbe4a3-4c00-4b96-8c11-bd6d11690cea,accused.forum,available,1.99,,high,low,7,name.com,,,
 84591204-c6e4-4217-ab8a-56e548d81a7a,memorise.forum,available,1.99,,high,low,8,name.com,,,
@@ -415,13 +413,13 @@ d20e763c-56f3-40a7-b394-6959b6599c92,knowof.forum,available,1.99,,medium,low,7,n
 1bb27ea3-f6b6-4ca5-9169-f05005743678,proceed.forum,available,1.99,,high,low,7,name.com,,,
 29758f84-8bc8-47a7-96e0-76fe226b22aa,allnight.forum,available,1.8,49.98,low,low,9,namecheap,,,
 e6faf70c-006e-4b37-899b-13f7853354d6,diminutive.forum,available,1.8,49.98,low,low,10,namecheap,,,08/08/2026 14:10
-87e403b3-e93c-4692-a0c8-a9456a377df9,Iwantmymoneyback.forum,available,1.99,,medium,low,20,name.com,,,
+87e403b3-e93c-4692-a0c8-a9456a377df9,iwantmymoneyback.forum,available,1.99,,medium,low,20,name.com,,,
 4a6b3636-6694-4094-adad-3bc4d3768c61,mobile.forum,premium,218.75,,medium,medium,6,name.com,,,
-3ec50008-1bcc-42ba-be46-5eda791e7c32,Crayola.forum,premium,87.5,,high,medium,7,name.com,,,
+3ec50008-1bcc-42ba-be46-5eda791e7c32,crayola.forum,premium,87.5,,high,medium,7,name.com,,,
 ef05d86f-60f1-44de-9710-b197d5328628,sunlight.forum,premium,87.5,,high,low,8,name.com,,,
 520e8f83-0d09-4a2d-8cb3-9a3c43033cfa,onthebasisof.forum,available,1.99,,medium,low,15,name.com,,,
 31f24c0d-bd62-4068-ade1-92c5135fdc6b,pad.forum,premium,437.5,,medium,low,3,name.com,,,
-87912f91-e7ad-4810-ad21-2fb8f9f46ef9,AsianTiger.forum,available,1.99,,medium,low,11,name.com,,,
+87912f91-e7ad-4810-ad21-2fb8f9f46ef9,asiantiger.forum,available,1.99,,medium,low,11,name.com,,,
 223f2c81-c1d0-4bc2-a18b-8727a252a36c,acellular.forum,available,1.8,49.98,low,low,9,namecheap,,,
 c0055eaa-3626-458c-b38e-67ee700fa518,conflicted.forum,available,1.99,,medium,low,10,name.com,,,
 7f963872-5276-4fa7-858f-5ec608459131,starred.forum,available,1.8,49.98,low,low,7,namecheap,,,07/08/2026 08:52
@@ -431,7 +429,7 @@ a3db10d9-a2df-4dba-ae3a-bee3ab24e752,approach.forum,available,1.8,49.98,low,low,
 78f8a122-e4e5-4722-81e4-380e49355bea,trained.forum,available,1.99,,high,low,7,name.com,,,
 842b9f90-991e-4be2-82bf-560b7dc48244,agrologic.forum,available,1.8,49.98,low,low,9,namecheap,,,
 5305b279-d45e-4b83-86c1-740a42979940,include.forum,available,1.99,,high,low,7,name.com,,,
-93019b00-098e-4b12-b0a2-fcdea611fd25,FannyAdams.forum,available,1.99,,medium,low,11,name.com,,,
+93019b00-098e-4b12-b0a2-fcdea611fd25,fannyadams.forum,available,1.99,,medium,low,11,name.com,,,
 7d59b7d8-68bf-4b64-a893-e18f05f38208,queens.forum,premium,87.5,,medium,low,6,name.com,,,
 478112da-27b2-45a2-94f0-50b60a807527,substitution.forum,available,1.99,,low,low,12,name.com,,,
 d5514f12-11a3-4530-b351-cd2c7e34be87,workings.forum,available,1.99,,high,low,8,name.com,,,
@@ -441,16 +439,16 @@ d5514f12-11a3-4530-b351-cd2c7e34be87,workings.forum,available,1.99,,high,low,8,n
 1d10a105-cf6e-496f-8632-e835ff64c969,pronouncing.forum,available,1.99,,medium,low,11,name.com,,,
 50f9aff6-e914-440d-996f-f945ff2dd697,sincerely.forum,available,1.99,,medium,low,9,name.com,,,
 8c34c18c-4cd0-4052-b925-93c2f1846fa3,await.forum,premium,87.5,,high,low,5,name.com,,,
-29dd6b51-43b9-4a91-81cf-a1abf2d0daff,attainable.forum,available,1.8,49.98,medium,low,10,namecheap,,,15/09/2026 02:33
+29dd6b51-43b9-4a91-81cf-a1abf2d0daff,attainable.forum,available,2.19,34.99,medium,low,10,namesilo,,,19/09/2026 04:15
 baeb2f1e-0dc0-42ac-94ce-d3d0855451de,locally.forum,available,1.99,,medium,low,7,name.com,,,
 428d4718-bf2f-40a9-8f5b-f16612045e24,whoever.forum,available,1.99,,low,low,7,name.com,,,
 1a99869a-ec57-4d79-9d85-d4473c85f5ec,gutcheck.forum,available,1.99,,medium,low,9,name.com,,,
-f21c2c56-4110-415b-8e72-d23f3d6cbcae,AlbertEinstein.forum,premium,87.5,,high,low,15,name.com,,,
+f21c2c56-4110-415b-8e72-d23f3d6cbcae,alberteinstein.forum,premium,87.5,,high,low,15,name.com,,,
 374cd482-55a7-4451-8faa-88363054fdf2,thanksto.forum,available,1.99,,medium,low,9,name.com,,,
 62b84365-0c7a-4b43-8a4a-3230f6454cbb,alkalotic.forum,available,1.8,49.98,low,low,9,namecheap,,,
 557bd093-126b-420c-86a1-b2cb50b4046c,interview.forum,available,1.99,,high,low,9,name.com,,,
 7b975c0c-bead-4858-8d84-ceb8c1c5163d,alive.forum,premium,87.5,,high,low,5,name.com,,,
-0f636b8f-e212-4b72-932c-e0ebca8b2150,WestBranch.forum,available,1.99,,low,low,11,name.com,,,
+0f636b8f-e212-4b72-932c-e0ebca8b2150,westbranch.forum,available,1.99,,low,low,11,name.com,,,
 021303fd-25a0-43af-9f90-05fb5947ebda,makegoodtime.forum,available,1.99,,high,low,14,name.com,,,
 58796761-a580-4cd4-9fd8-5c2bae7f1388,primitive.forum,available,1.99,,high,low,9,name.com,,,
 6e551c26-3fde-404e-8e46-918a0920058f,spinous.forum,available,1.8,49.98,low,low,7,namecheap,,,
@@ -477,7 +475,7 @@ fe3cb830-c61a-41b6-92f8-8f9c5ee90ffa,hacking.forum,premium,87.5,,medium,low,7,na
 1dce9f6b-41fc-4e77-93fc-0a8c5b40896c,cap.forum,premium,87.5,,high,low,3,name.com,,,
 1581740a-eb00-45a6-a143-918e73aae878,based.forum,premium,87.5,,high,medium,5,name.com,,,
 686138d9-2cda-46ad-b227-29ad73eda6e4,sounding.forum,available,1.99,,high,low,8,name.com,,,
-bbc58396-1abe-4348-81b7-c12ed9b7328a,Rhoda.forum,available,1.99,,medium,low,5,name.com,,,
+bbc58396-1abe-4348-81b7-c12ed9b7328a,rhoda.forum,available,1.99,,medium,low,5,name.com,,,
 eeacc502-74ef-45e9-acac-5bd180842c0f,proficient.forum,available,44.99,44.99,high,low,10,name.com,,,
 04266a7c-34db-4078-9ba8-b4c72baa6adb,mass.forum,premium,125,125,high,low,4,name.com,,,
 8eaf0cd3-fe68-4731-995f-edf109fb4761,unassuming.forum,available,1.99,,high,low,10,name.com,,,
@@ -495,7 +493,7 @@ f94d682b-2ce2-425c-9287-6900e272a709,awhile.forum,available,1.99,,medium,low,6,n
 51b81746-1883-4961-bbc7-b6e7faeda5dc,summertire.forum,available,1.99,,high,low,11,name.com,,,
 5e7c0bd8-3f04-4e28-8883-3f573e1e9ffc,bed.forum,premium,87.5,,high,low,3,name.com,,,
 7445920b-1b98-41e0-90c0-c99f04a2ef4b,naturally.forum,available,1.99,,medium,low,9,name.com,,,
-f7d06c6e-d160-431e-b26c-076a6b765050,IsaidwhatIsaid.forum,available,1.99,,medium,low,18,name.com,,,
+f7d06c6e-d160-431e-b26c-076a6b765050,isaidwhatisaid.forum,available,1.99,,medium,low,18,name.com,,,
 9971d725-14b8-4582-868f-8a202d2c3a1f,walking.forum,available,1.99,,high,low,7,name.com,,,
 516dfc46-4992-4685-b52e-65facc7fa0cb,papershop.forum,available,1.99,,medium,low,10,name.com,,,
 3f02a277-6362-40e4-ab10-947c341df06c,comeinto.forum,available,1.99,,high,low,9,name.com,,,
@@ -528,7 +526,7 @@ b460e4e7-d307-488f-a375-596acf86cb60,wrapped.forum,premium,87.5,125,low,low,7,na
 0476f06a-3f2b-4322-acc9-a7ab104e6178,suntea.forum,available,1.99,,high,low,7,name.com,,,
 9c41afe4-6ca9-4ff0-95e3-6780ede5dd46,worm.forum,premium,87.5,,medium,low,4,name.com,,,
 e2e73e4b-8083-4e38-9875-b3b74391c5ac,cinderella.forum,premium,87.5,,high,low,10,name.com,,,
-57316a23-5903-40e8-aa8b-78f68a2121e9,NewOrleans.forum,premium,87.5,,medium,low,11,name.com,,,
+57316a23-5903-40e8-aa8b-78f68a2121e9,neworleans.forum,premium,87.5,,medium,low,11,name.com,,,
 9f97bee9-51fe-4bd6-bf3a-79bed9df4d2f,trio.forum,premium,625,625,high,low,4,name.com,,,
 42428ac1-4e3b-4476-ad15-f474781155aa,civilwar.forum,available,1.99,,medium,low,9,name.com,,,
 2749b84a-816a-4d08-9e83-46f5391d99cb,amorphous.forum,available,1.8,49.98,low,low,9,namecheap,,,
@@ -557,7 +555,7 @@ a3a6c940-a09d-4761-804d-f1eda829f3a4,mahfugga.forum,available,1.99,,medium,low,8
 671d0c12-d2b4-4359-a168-48ff96f3b56b,ant.forum,premium,218.75,,high,medium,3,name.com,,,
 93646e19-8485-46cc-a672-6698c620100c,formal.forum,available,44.99,44.99,high,low,6,name.com,,,
 d5cdfcd2-b7eb-4845-ab06-7f530bc2a84e,interior.forum,premium,87.5,,medium,low,8,name.com,,,
-e8345ff5-5b41-48b9-be82-6065093567f6,mixed.forum,premium,302.5,302.5,low,low,5,namesilo,,,15/09/2026 02:59
+e8345ff5-5b41-48b9-be82-6065093567f6,mixed.forum,premium,302.5,302.5,low,low,5,namesilo,,,19/09/2026 12:23
 7481598f-1677-4219-8118-4a88eda9cad1,employer.forum,available,1.99,,high,low,8,name.com,,,
 c3464eea-3806-4151-9056-2ef797b5db60,girth.forum,premium,87.5,,high,low,5,name.com,,,
 50c7f5ff-5011-4679-9ec3-52f108129e3d,setloose.forum,available,1.99,,low,low,9,name.com,,,
@@ -566,7 +564,7 @@ c3464eea-3806-4151-9056-2ef797b5db60,girth.forum,premium,87.5,,high,low,5,name.c
 8df6517b-4187-4b30-81f1-1c169ddcf351,vexatious.forum,available,1.8,49.98,low,low,9,namecheap,,,
 6cdf88d6-640d-4e7d-b800-8b2235ab9473,cutshort.forum,available,1.99,,medium,low,9,name.com,,,
 21d8db8c-90d2-4469-8c6f-9139b10499d0,restaurant.forum,premium,87.5,,high,low,10,name.com,,,
-7f3c781f-caf0-40ce-a8d8-4b928e2529a1,broad.forum,premium,87.5,125,medium,low,5,name.com,,,14/09/2026 03:17
+7f3c781f-caf0-40ce-a8d8-4b928e2529a1,broad.forum,premium,130,130,medium,low,5,namecheap,,,19/09/2026 06:03
 3d750cbe-f461-44c9-841f-3bf555e0109d,lover.forum,premium,87.5,,high,low,5,name.com,,,
 4deb3e1d-51d0-4088-a999-cd51e30fcde2,acanthoid.forum,available,1.8,49.98,low,low,9,namecheap,,,
 2186ebe9-3d19-4cf5-b1d2-af623e745528,cloud.forum,premium,640,640,medium,medium,5,namesilo,,,08/09/2026 12:26
@@ -575,7 +573,7 @@ c3464eea-3806-4151-9056-2ef797b5db60,girth.forum,premium,87.5,,high,low,5,name.c
 69897943-d09c-4e3c-bb3e-4d1d1ff05a5e,condense.forum,available,1.99,,high,low,8,name.com,,,
 ab2546ac-6d10-49fa-b1b1-0d02eac4b0fd,sixtysix.forum,available,1.8,49.98,low,low,9,namecheap,,,
 f222bd01-4cfc-4c49-a477-73f68232eaa8,readfor.forum,available,1.99,,low,low,8,name.com,,,
-364bd133-8cc0-4630-94b7-9eba4ab30fcb,GermanReich.forum,available,1.99,,medium,low,12,name.com,,,
+364bd133-8cc0-4630-94b7-9eba4ab30fcb,germanreich.forum,available,1.99,,medium,low,12,name.com,,,
 a59ee0c0-2b71-4a16-992d-7c1a9a940690,little.forum,available,1.99,,high,low,6,name.com,,,
 d1563d9e-ac47-4ee7-9e25-53f05d03507c,airportnovel.forum,available,1.8,49.98,low,low,13,namecheap,,,08/09/2026 03:28
 e56f4d2d-586b-425a-b23c-b63b5b9fb11a,waterflow.forum,available,1.99,,high,low,9,name.com,,,
@@ -585,7 +583,6 @@ e56f4d2d-586b-425a-b23c-b63b5b9fb11a,waterflow.forum,available,1.99,,high,low,9,
 c470ed17-4574-49a9-9e7a-49beb5a5df6f,dominating.forum,available,1.8,49.98,low,low,10,namecheap,,,07/08/2026 19:40
 8411e8f9-28d0-4a10-a893-291a76a1e70f,activated.forum,available,44.99,44.99,high,low,9,name.com,,,
 7b4b658e-c355-4fe3-a4e8-ad4e8acd15a2,pregnant.forum,available,1.99,,high,low,8,name.com,,,
-d6d62053-3432-4638-ab0f-75e56a59b864,social.forum,premium,87.5,,high,medium,6,name.com,,,
 3a2e78e3-f237-4d4d-8cd6-925949ea4c02,goodandproper.forum,available,1.99,,medium,low,15,name.com,,,
 9c5a5482-c32b-4a9d-bca6-7f78ba66f57b,coffeemaker.forum,available,1.99,,high,low,12,name.com,,,
 77d44ca2-bc68-4aed-bece-b5b5ee220e1a,articled.forum,available,1.8,49.98,low,low,8,namecheap,,,06/08/2026 08:28
@@ -608,7 +605,7 @@ a5c45aae-5d32-41fc-b5db-6cb4e4234a33,peace.forum,premium,437.5,,high,low,5,name.
 d9622095-70d7-45a4-a6e0-ad39a17d6d50,orca.forum,premium,87.5,,high,medium,4,name.com,,,
 f700d605-47fe-4ef9-922f-c5d20f7e5fef,allnighter.forum,available,1.99,,medium,low,11,name.com,,,
 1d3012d3-1983-4f37-9c4c-1cbbf13b04ae,naked.forum,premium,437.5,,medium,low,5,name.com,,,
-6973dbff-be2a-4ffc-8c5b-d5ab78a5b3c8,Nicole.forum,available,1.99,,high,low,6,name.com,,,
+6973dbff-be2a-4ffc-8c5b-d5ab78a5b3c8,nicole.forum,available,1.99,,high,low,6,name.com,,,
 828fbecf-1610-409a-a48b-87406d71708f,saveface.forum,available,1.99,,medium,low,9,name.com,,,
 8e4c947e-3538-4945-8122-5709814c3793,inthegreen.forum,available,1.99,,medium,low,12,name.com,,,
 2c94000f-3e27-4ef9-9bb8-7963f1334cf4,pepsi.forum,premium,437.5,,high,low,5,name.com,,,
@@ -640,7 +637,7 @@ a33c8ce9-0390-4759-b045-632ee6c0fd47,basidial.forum,available,1.8,49.98,low,low,
 2285bd36-94f4-4fb1-80ae-3da29db58235,otherwise.forum,available,1.99,,high,low,9,name.com,,,
 e1f7ffaf-2d8a-4e3b-ad2f-7ca9617da7b9,scurrilous.forum,available,1.8,49.98,low,low,10,namecheap,,,
 55269cd9-8244-4435-aa02-b3dc141104a9,amygdaline.forum,available,1.8,49.98,low,low,10,namecheap,,,
-dbb96dec-37b3-4d8f-b5eb-8bfefe6227f6,harvard.forum,premium,116,116,medium,medium,7,namesilo,,,14/09/2026 03:55
+dbb96dec-37b3-4d8f-b5eb-8bfefe6227f6,harvard.forum,premium,116,116,low,low,7,namesilo,,,19/09/2026 06:08
 db04955b-a38f-4874-b20c-a94b8433084b,vice.forum,premium,87.5,,medium,low,4,name.com,,,
 a8bf6de3-a05f-4690-a5e6-4855259d6e03,commonly.forum,available,1.99,,medium,low,8,name.com,,,
 fdcc0c35-54c2-4454-949e-3e552c02aa46,recap.forum,premium,87.5,,high,low,5,name.com,,,
@@ -650,7 +647,7 @@ a12066f0-391b-4769-9ded-5f8c37042730,verse.forum,premium,87.5,,high,low,5,name.c
 20727765-174c-4733-ba1f-e14e464551f5,pressed.forum,available,1.99,,medium,low,7,name.com,,,
 6c0e18b4-17ff-49da-8690-7b9b99263593,cerulean.forum,available,1.8,49.98,medium,low,8,namecheap,,,08/08/2026 03:10
 6b482ea2-9138-4730-a6eb-9aa85e74091d,younameit.forum,available,1.99,,medium,low,11,name.com,,,
-067a9c1d-a7fa-4307-b701-617d3fbe2688,system.forum,premium,130,130,medium,medium,6,namecheap,,,13/09/2026 19:53
+067a9c1d-a7fa-4307-b701-617d3fbe2688,system.forum,premium,116,116,medium,low,6,namesilo,,,19/09/2026 08:26
 570465e4-133f-4149-a742-2972bb53af92,designed.forum,available,44.99,44.99,medium,low,8,name.com,,,
 a72f3a6a-f6cd-43ee-860c-4253959d372c,coefficient.forum,available,1.99,,high,low,11,name.com,,,
 ac2440d5-483d-40c0-9af8-e387833c19ba,commentate.forum,available,1.99,,high,low,10,name.com,,,
@@ -665,12 +662,11 @@ ad89d1c9-5e21-40b0-9b6e-6c58a2497385,specialized.forum,premium,87.5,,medium,low,
 429c165a-c150-4590-838a-e14d4e50f477,melancholy.forum,available,1.99,,high,low,10,name.com,,,
 6e42b574-fc23-447c-bd1b-489e2e2d0b1d,sufficient.forum,available,1.99,,high,low,10,name.com,,,
 dde0a27a-72a7-49ac-a093-88651ca1bd45,brown.forum,premium,218.75,,high,low,5,name.com,,,
-0a82c937-7eb4-48a0-b24b-2e3f7cbd1d0c,Misses.forum,available,1.99,,high,low,6,name.com,,,
+0a82c937-7eb4-48a0-b24b-2e3f7cbd1d0c,misses.forum,available,1.99,,high,low,6,name.com,,,
 8449462d-6b1d-42cf-b994-a51e1ab0338d,acetylenic.forum,available,1.8,49.98,low,low,10,namecheap,,,
 3f5568f8-a62d-4e26-a291-fb92c731f499,polo.forum,premium,437.5,,high,high,4,name.com,,,
-3030b344-5e12-4998-9538-6114da1ad725,lawyer.forum,resell,,,medium,low,6,"Sav.com, LLC",22/07/2024 11:59,22/07/2026 11:59,
 b9832b62-4772-4cf7-b4a7-7ecd56bfe7e0,diplomatic.forum,available,44.99,44.99,high,low,10,name.com,,,
-dfa0b2c6-7eb2-4dba-8659-ebe9399f96e2,payment.forum,premium,87.5,,high,low,7,name.com,,,
+dfa0b2c6-7eb2-4dba-8659-ebe9399f96e2,payment.forum,premium,116,116,medium,low,7,namesilo,,,20/09/2026 02:57
 de008d5e-49c3-4c80-b4c6-f782854b362b,janedoe.forum,available,1.99,,medium,low,8,name.com,,,
 e7cc6ee4-a367-4e16-ac81-551deb0e409d,antemortem.forum,available,1.8,49.98,low,low,10,namecheap,,,
 f9475799-3946-4293-9036-6eb8b8e1f052,facing.forum,available,1.99,,high,low,6,name.com,,,
@@ -684,7 +680,7 @@ d1d5350b-6afc-42ee-b7ec-c2f7ef210e0a,howmuchisit.forum,available,1.99,,medium,lo
 b30c508e-d807-4bd6-a147-f355f82e1bd8,aspectual.forum,available,1.8,49.98,low,low,9,namecheap,,,07/08/2026 04:41
 476caec6-355a-462d-a4e9-975fef5ef15c,anorectal.forum,available,1.8,49.98,low,low,9,namecheap,,,
 8fced42e-370d-412c-b565-bf67bf3b1e26,portuguese.forum,available,1.99,,high,low,10,name.com,,,
-c5ab658b-d1ae-4051-b02b-32aca059833c,complete.forum,premium,87.5,125,medium,low,8,name.com,,,15/09/2026 06:11
+c5ab658b-d1ae-4051-b02b-32aca059833c,complete.forum,premium,130,130,medium,low,8,namecheap,,,19/09/2026 19:02
 ddc9a225-5814-4df1-8dd4-69a5582d9bbd,finally.forum,available,1.99,,high,low,7,name.com,,,
 4e9522b9-9ade-4323-b4f5-791cff4659e4,personally.forum,available,1.99,,medium,low,10,name.com,,,
 68a4c213-cf6e-4b4e-a85a-4c490abe9424,heard.forum,available,1.99,,medium,low,5,name.com,,,
@@ -693,8 +689,6 @@ af744225-7c4a-461c-a21a-cf1c7b91d51b,extempore.forum,available,1.8,49.98,low,low
 44e86fea-a40c-4a9c-ace9-3c6aa251b8f7,ride.forum,premium,218.75,,high,low,4,name.com,,,
 155a0909-aaa1-48bb-9115-c10e73cc653b,anosmatic.forum,available,1.8,49.98,low,low,9,namecheap,,,
 5c8c7d0d-8fc2-4942-ace8-6028ced7fe51,heatwave.forum,premium,87.5,,medium,low,9,name.com,,,
-b534f59a-bc5e-4bfc-924f-5c66f5333a31,stone.forum,available,1.99,,medium,low,5,name.com,,,
-120543a0-841e-44fc-8a5f-fb71512f6174,visual.forum,available,1.8,49.98,medium,low,6,namecheap,,,15/09/2026 03:25
 a18ea754-7e1f-461d-bd90-b7244494b29b,workfare.forum,available,1.99,,low,low,8,name.com,,,
 bbc21118-3c32-4ca3-8a36-8e1d6db40aa1,astragalar.forum,available,1.8,49.98,low,low,10,namecheap,,,07/08/2026 09:54
 1d970cda-02d8-4adc-a560-64a72bab2774,dismaying.forum,available,1.8,49.98,low,low,9,namecheap,,,06/08/2026 04:36
@@ -705,10 +699,9 @@ ca0dd958-7122-4e84-af80-50aa22944a75,whilst.forum,available,1.99,,medium,low,6,n
 60115332-3bbf-4623-a42d-bc961b42adc6,border.forum,available,1.99,,medium,low,6,name.com,,,
 9454542c-56fc-4e54-b74d-2cf8c6becdb5,quickwitted.forum,available,1.99,,medium,low,12,name.com,,,
 027d2be6-5db9-4acf-bf0d-e40e2dff061e,guilt.forum,premium,87.5,,high,low,5,name.com,,,
-ec73c13c-72b5-4544-83e0-a0743a1f01b7,NYT.forum,premium,87.5,,high,low,3,name.com,,,
+ec73c13c-72b5-4544-83e0-a0743a1f01b7,nyt.forum,premium,87.5,,high,low,3,name.com,,,
 a618ad44-fbae-4f1a-9593-1d2777ad1c32,omega.forum,premium,437.5,,high,high,5,name.com,,,
 fec0282d-f566-4d3f-a523-e6897b8a6056,matrix.forum,premium,87.5,,medium,medium,6,name.com,,,
-81d76f06-a17d-4e05-ab8e-bb5f5aeabdbc,process.forum,available,1.99,,high,low,7,name.com,,,
 42251dcd-5c75-42ec-9854-f30b791dd473,categorical.forum,available,1.99,,high,low,11,name.com,,,
 57647078-8a91-498b-aea7-eb5a8dca9492,basket.forum,premium,87.5,,high,low,6,name.com,,,
 8fec0959-ed59-4105-819e-37fb9cf234f3,annoyance.forum,available,,,medium,low,9,,,,
@@ -761,7 +754,7 @@ e11fc5d5-07f6-4107-a920-b2e6314a5ba3,angered.forum,available,1.8,49.98,low,low,7
 6391b674-b49e-4300-8a3c-fb091d2eac14,memorize.forum,available,1.99,,high,low,8,name.com,,,
 0f948ccb-c342-4a5f-ac6a-a3c3e38e8153,abactinal.forum,available,1.8,49.98,low,low,9,namecheap,,,
 7f7057b1-f4b0-490b-9064-1ddf510fcfc5,musthave.forum,available,1.99,,high,low,9,name.com,,,
-e8b604fe-fd4a-40b6-a8e3-d9b297c75e3f,devices.forum,available,1.99,,high,low,7,name.com,,,
+e8b604fe-fd4a-40b6-a8e3-d9b297c75e3f,devices.forum,available,2.19,34.99,medium,low,7,namesilo,,,19/09/2026 10:40
 c4295f3b-e6f6-4f38-83c5-7ca80990b0b4,enliven.forum,available,1.99,,high,low,7,name.com,,,
 cb0521a8-4780-4136-803c-c9eeb3095d37,furthest.forum,available,1.99,,medium,low,8,name.com,,,
 b1e15dbf-b387-4b23-a8ba-0d8ba38a69db,nowthat.forum,available,1.99,,low,low,8,name.com,,,
@@ -786,7 +779,7 @@ cb9f0195-5078-49a8-98ae-07928257431d,outlet.forum,premium,87.5,,high,low,6,name.
 88686cc8-ca47-40a0-9984-0b4ad5bb5df1,pizzeria.forum,available,1.99,,high,low,8,name.com,,,
 58405d99-f950-4616-a814-1a37101f8d0e,nightsky.forum,available,1.99,,high,low,9,name.com,,,
 d984c03b-0e26-4763-903f-e4402fcc5c33,secondguess.forum,available,1.99,,medium,low,12,name.com,,,
-b124e38a-dbb4-42e2-966b-a3cef2b01b33,Ihavenomoney.forum,available,1.99,,medium,low,15,name.com,,,
+b124e38a-dbb4-42e2-966b-a3cef2b01b33,ihavenomoney.forum,available,1.99,,medium,low,15,name.com,,,
 328b4c80-cb5a-490f-ae77-a9185700dbfa,retarded.forum,available,1.99,,medium,low,8,name.com,,,
 f024710c-008f-43e5-895b-ba657fa3e4d2,regulate.forum,available,1.99,,medium,low,8,name.com,,,
 d6a95a7f-ee16-4897-8d04-e93abe6df941,twohanded.forum,available,1.8,49.98,low,low,10,namecheap,,,
@@ -820,7 +813,7 @@ a8adeee5-be60-4392-8ec8-3e3646ef11d0,apheretic.forum,available,1.8,49.98,low,low
 41db42c3-5326-4507-a8d3-c02003eb1e11,airphoto.forum,available,1.99,,high,low,9,name.com,,,
 26df7122-134d-4496-b9e6-a97a644f1af0,situation.forum,available,1.99,,high,low,9,name.com,,,
 84f7ee2f-8da2-4902-9286-373340c7aa63,araneidal.forum,available,1.8,49.98,low,low,9,namecheap,,,06/08/2026 12:18
-4373ae15-75b7-4a4e-a617-f752cbe271d0,Iwanttoknow.forum,available,1.99,,medium,low,14,name.com,,,
+4373ae15-75b7-4a4e-a617-f752cbe271d0,iwanttoknow.forum,available,1.99,,medium,low,14,name.com,,,
 71826816-c6a5-46f7-85db-d0ac2bdb3b0f,tip.forum,premium,437.5,,high,low,3,name.com,,,
 812fcdd7-432d-4266-8654-d6031b286fe4,enthralled.forum,available,1.8,49.98,low,low,10,namecheap,,,09/08/2026 10:06
 afbde7c8-fd98-4d23-9528-af0b109e5c94,aliquot.forum,available,1.8,49.98,low,low,7,namecheap,,,
@@ -844,14 +837,14 @@ f8e41b09-7964-4e06-9157-439ee822c4ef,wrongful.forum,available,1.99,,medium,low,8
 55157d46-ecf0-49ab-9a6f-8c188f4a47da,acropetal.forum,available,1.8,49.98,low,low,9,namecheap,,,
 955ccee4-81c3-4db1-aa58-473a44842f14,kept.forum,premium,87.5,,medium,low,4,name.com,,,
 5e507de7-af51-4c8c-86d6-8f84b3e5a124,but.forum,premium,437.5,,high,low,3,name.com,,,
-7c293111-2dce-44e7-813a-f735e6106d55,Ava.forum,premium,218.75,,high,medium,3,name.com,,,
+7c293111-2dce-44e7-813a-f735e6106d55,ava.forum,premium,218.75,,high,medium,3,name.com,,,
 e73090f6-784e-4b99-9d7b-532c2ed1872d,encouraging.forum,available,1.99,,high,low,11,name.com,,,
 d054d622-f95c-45d7-8bde-26e9de65ad6b,articulary.forum,available,1.8,49.98,low,low,10,namecheap,,,06/08/2026 23:31
 75186331-d2fd-445f-b796-b5866fa2c87b,profitmargin.forum,available,1.99,,high,low,13,name.com,,,
 f9de8574-f470-468c-a1f3-fc7ec3ea9f2c,facility.forum,available,1.99,,high,low,8,name.com,,,
 9109f81f-5143-435c-bfed-28502afcccd6,rigid.forum,premium,87.5,,high,low,5,name.com,,,
 8b08cd81-b0ad-4c06-a99c-17a3f37b1d8c,controlling.forum,available,1.99,,high,low,11,name.com,,,
-09daeafc-df49-445e-83a4-05bde0ac8949,justice.forum,premium,640,640,medium,low,7,namesilo,,,14/09/2026 03:52
+09daeafc-df49-445e-83a4-05bde0ac8949,justice.forum,premium,640,640,medium,low,7,namesilo,,,19/09/2026 10:07
 1376aeb7-7715-4a5b-93e7-c7302977115f,presssecretary.forum,available,1.99,,high,low,15,name.com,,,
 634333db-1a07-4fed-a5c1-a18fd8829b7d,delicious.forum,premium,125,125,high,low,9,name.com,,,
 73851492-cfc3-43c6-abf1-c7e09d1bc2ca,tyrannic.forum,available,1.8,49.98,low,low,8,namecheap,,,07/08/2026 19:03
@@ -862,7 +855,7 @@ d4c27a96-97bf-48fc-8b51-306e0b541df4,invented.forum,available,1.99,,high,low,8,n
 fe9175bd-303a-49ee-85b1-0a694910b39c,anabatic.forum,available,1.8,49.98,low,low,8,namecheap,,,
 a7bde27d-eec9-41fb-89b5-228b00086dce,generalknowledge.forum,available,1.99,,high,low,17,name.com,,,
 60dd6f6d-984c-43b8-9bb0-2ee9577ced5c,rose.forum,premium,87.5,,high,medium,4,name.com,,,
-b1891036-0c10-4753-b443-99fdb3a0e724,Fran.forum,available,1.99,,medium,low,4,name.com,,,
+b1891036-0c10-4753-b443-99fdb3a0e724,fran.forum,available,1.99,,medium,low,4,name.com,,,
 39e3713d-fc34-4c7e-8cf0-61c32144b98f,debased.forum,available,1.8,49.98,low,low,7,namecheap,,,
 1ffa16b1-2514-496c-8831-6e6bf5f28d6d,journey.forum,premium,87.5,,high,low,7,name.com,,,
 0fbdfca2-302b-4690-9815-059359be5f0c,admittible.forum,available,1.8,49.98,low,low,10,namecheap,,,
@@ -878,8 +871,8 @@ cf032637-a7e2-44ef-8674-6336c7c5d0cc,law.forum,premium,195,650,high,medium,3,nam
 48dc5016-b592-48a4-9e17-cf030d236eeb,brave.forum,premium,87.5,,high,medium,5,name.com,,,
 944ae099-1819-4d0a-9d7b-af67ec42fd0c,genial.forum,available,44.99,44.99,high,low,6,name.com,,,
 e96c73e9-1ecd-45b4-8246-b714b90f8e5c,thinkup.forum,available,1.99,,high,low,8,name.com,,,
-3e17ac4f-277e-473f-8a5b-4ade35274674,vast.forum,premium,116,116,medium,low,4,namesilo,,,15/09/2026 03:15
-a4ca1f46-87b4-46ec-b78f-e85ccb2ee359,BlackThursday.forum,available,1.99,,medium,low,14,name.com,,,
+3e17ac4f-277e-473f-8a5b-4ade35274674,vast.forum,premium,130,130,medium,low,4,namecheap,,,19/09/2026 06:11
+a4ca1f46-87b4-46ec-b78f-e85ccb2ee359,blackthursday.forum,available,1.99,,medium,low,14,name.com,,,
 80eb3f98-8666-43eb-85a5-885f71b377c5,oneyearold.forum,available,1.99,,high,low,12,name.com,,,
 0c88e343-0cce-44f0-baec-e931292f2173,pokeabout.forum,available,1.99,,low,low,10,name.com,,,
 ed365b9d-223f-4687-9eff-d426e90d0bec,thankful.forum,available,1.99,,high,low,8,name.com,,,
@@ -904,12 +897,12 @@ b391c419-41f0-4683-a99e-ad1a0bb9232a,anatomical.forum,available,1.8,49.98,low,lo
 fdbab8e5-c839-47a1-9e80-66d8bafbc936,alcoholic.forum,available,1.8,49.98,low,low,9,namecheap,,,
 8e096892-9bf0-4925-93e5-ab946f68cb3a,barbarian.forum,available,1.8,49.98,low,low,9,namecheap,,,08/08/2026 15:26
 85824dfd-18ce-4198-a532-28a4a3ffdc00,incidence.forum,available,1.99,,medium,low,9,name.com,,,
-75ac5558-efa6-487b-9255-5d7d63beffc1,IamEnglish.forum,available,1.99,,medium,low,12,name.com,,,
+75ac5558-efa6-487b-9255-5d7d63beffc1,iamenglish.forum,available,1.99,,medium,low,12,name.com,,,
 9a63ce31-6c61-4001-8ae4-21c5f6ea644b,request.forum,premium,87.5,,high,low,7,name.com,,,
 92e7a999-a965-417d-b377-dafc394ddb04,agaze.forum,premium,87.5,125,low,low,5,name.com,,,
 537767ca-a2e5-4c37-8700-928120057ab3,ahuh.forum,available,1.99,,high,low,4,name.com,,,
 77830623-1ad0-4f1e-89be-993a2007a725,playfield.forum,available,1.99,,high,low,9,name.com,,,
-51705e7b-33a8-4519-9c8a-7b41f792d688,working.forum,premium,116,116,medium,low,7,namesilo,,,14/09/2026 03:37
+51705e7b-33a8-4519-9c8a-7b41f792d688,working.forum,premium,116,116,medium,low,7,namesilo,,,19/09/2026 07:09
 4504efc9-dd14-409b-aef9-c7b03b648ad5,hopefully.forum,available,1.99,,high,low,9,name.com,,,
 3746b067-7cb8-4cd7-b689-ead25959384e,bareheaded.forum,available,1.8,49.98,low,low,10,namecheap,,,08/08/2026 18:49
 b8509687-4212-4a76-a47e-450369a9ce52,wearoff.forum,available,1.99,,low,low,8,name.com,,,
@@ -951,7 +944,7 @@ a10e5859-bad9-4abf-b2b7-780a04866e25,change.forum,premium,87.5,,high,medium,6,na
 026bc032-4776-4268-a9b4-7ad2427ad7f6,letmesee.forum,available,1.99,,medium,low,10,name.com,,,
 dcb1dc12-b741-4995-9d92-ceda6c7222a5,busted.forum,available,1.99,,medium,low,6,name.com,,,
 1c79ae93-ef89-493d-ae8a-1788484bdacd,septenary.forum,available,1.8,49.98,low,low,9,namecheap,,,
-4b28eb42-6011-4f34-aeb8-839cecbd3e2d,ROTFL.forum,available,1.99,,low,low,5,name.com,,,
+4b28eb42-6011-4f34-aeb8-839cecbd3e2d,rotfl.forum,available,1.99,,low,low,5,name.com,,,
 7899a6c3-3164-41f2-8fe3-bdfdbea7cd49,spellcheck.forum,available,1.99,,high,low,11,name.com,,,
 48abbd96-2405-4467-a5ef-58c579265ca1,death.forum,premium,125,125,medium,low,5,name.com,,,
 c84aa60f-d4ea-48aa-9fb1-70dbf3b259dd,heal.forum,premium,87.5,,high,low,4,name.com,,,
@@ -961,7 +954,7 @@ a6323d35-1199-4fc4-8f19-9867630e3857,inadvance.forum,available,1.8,49.98,low,low
 3212cc63-616e-4284-b58e-6b066084714c,slip.forum,premium,87.5,,high,low,4,name.com,,,
 0a711165-f775-444c-a241-6e83524e9f04,coconut.forum,available,1.99,,high,low,7,name.com,,,
 8a13a577-3991-4f57-a419-9b3f9f53c4fe,buttocks.forum,available,1.8,49.98,low,low,8,namecheap,,,09/08/2026 10:25
-96bb23cf-a6c0-4c01-9089-28f329b222e5,initiative.forum,available,1.8,49.98,medium,low,10,namecheap,,,15/09/2026 11:27
+96bb23cf-a6c0-4c01-9089-28f329b222e5,initiative.forum,available,2.19,34.99,medium,low,10,namesilo,,,19/09/2026 04:32
 4f1c21d4-9cf7-42e4-8240-393005d5df21,pasta.forum,premium,195,650,medium,low,5,namecheap,,,
 d5032318-6dc0-43e2-b339-d003c1297362,told.forum,premium,87.5,,low,low,4,name.com,,,
 60a74341-a453-40f1-9d7d-7dc099dacdde,arrhythmic.forum,available,1.8,49.98,low,low,10,namecheap,,,06/08/2026 21:53
@@ -972,7 +965,7 @@ e006e224-0daa-4809-adf2-db154e35433b,slow.forum,premium,875,,high,low,4,name.com
 e8d7fdf3-f5e4-454b-98b0-3c8581e4368d,aural.forum,premium,87.5,,medium,low,5,name.com,,,
 43d97e74-8772-4388-a4c7-0bbc898a01cc,bared.forum,premium,87.5,,medium,low,5,name.com,,,
 6964ce4c-39d7-4846-b0b3-dace7798bfc6,voicecall.forum,available,1.99,,high,low,10,name.com,,,
-d7f4218e-d5c9-49fc-8280-f2741ceaf505,study.forum,premium,195,650,high,low,5,namecheap,,,
+d7f4218e-d5c9-49fc-8280-f2741ceaf505,study.forum,premium,640,640,medium,low,5,namesilo,,,20/09/2026 03:18
 eda61c61-07e4-477d-a01d-89bf30cac69a,alaskan.forum,available,1.8,49.98,low,low,7,namecheap,,,
 dd7830b3-cfb5-4ff2-b54f-c123f69fd968,range.forum,premium,87.5,,medium,low,5,name.com,,,
 81ed3726-f68a-4694-8521-49ea8450d410,agnatic.forum,available,1.8,49.98,low,low,7,namecheap,,,
@@ -983,7 +976,7 @@ a0dcd4e0-3171-4b64-abdc-242494f7ddbf,anniversary.forum,available,1.99,,high,low,
 4f153d33-abdc-4666-9561-90b9622f0fd3,vegetable.forum,available,1.99,,high,low,9,name.com,,,
 662e8820-bbea-4980-87ee-22ce92e03dc3,egg.forum,premium,437.5,,high,low,3,name.com,,,
 8a5acd90-1ad9-4169-b7d4-bf85fd43023f,baked.forum,premium,87.5,125,low,low,5,name.com,,,
-064a033b-20e3-476b-83ce-66feedac0c57,NewYorkState.forum,available,1.99,,medium,low,14,name.com,,,
+064a033b-20e3-476b-83ce-66feedac0c57,newyorkstate.forum,available,1.99,,medium,low,14,name.com,,,
 4808e347-3bf1-4afd-b772-8ca2a84e53a9,arching.forum,available,1.8,49.98,low,low,7,namecheap,,,06/08/2026 14:39
 2e6f2a18-38f2-4b0b-9cbb-0e7001302daa,linkup.forum,available,1.8,49.98,low,low,7,namecheap,,,07/08/2026 07:13
 2d892afe-18fa-49af-ae47-20023f450358,softly.forum,available,1.99,,medium,low,6,name.com,,,
@@ -997,5 +990,12 @@ a7500403-2a38-429b-8332-38e7d7d65bc5,amongst.forum,available,1.99,,medium,low,7,
 2e9b0e6a-cde6-4a76-bc57-65f487f470cd,familybusiness.forum,available,1.99,,high,low,15,name.com,,,
 aae1d194-a984-4e70-a8c7-9b47a4f4194a,hardwork.forum,available,1.99,,high,low,9,name.com,,,
 05545378-2a37-453c-afde-bf007f88ed3c,exist.forum,premium,87.5,,high,low,5,name.com,,,
-e02996ff-3e40-4b96-af2a-a79183f69f22,rolling.forum,available,1.8,49.98,low,low,7,namecheap,,,13/09/2026 03:13
+e02996ff-3e40-4b96-af2a-a79183f69f22,rolling.forum,available,2.19,34.99,low,low,7,namesilo,,,19/09/2026 06:51
 17cbf57d-53e4-49d8-a8a0-e385ce8b1fd9,shootingstar.forum,available,1.99,,high,low,13,name.com,,,
+0c1b1fa9-b330-4ffd-ae1d-e6ce030e7b16,comical.forum,available,1.99,,high,low,7,name.com,,,
+b6cba8db-9f0b-4180-9247-1e069ffe14d8,noble.forum,premium,437.5,625,medium,low,5,name.com,,,08/08/2026 20:18
+36802076-b570-4997-865b-4c8def905cfe,ammoniac.forum,available,1.8,49.98,low,low,8,namecheap,,,
+c00b2c4f-5bfb-4646-bf29-d6287ba73805,handmedown.forum,available,1.99,,high,low,12,name.com,,,
+eb858e83-a0a0-4cc7-b97d-c5e25b10dfc3,plunkfor.forum,available,1.8,49.98,low,low,9,namecheap,,,08/08/2026 05:28
+7f87002c-00c2-4551-88a9-6d6431dd6bd6,getthebetterof.forum,available,1.99,,high,low,17,name.com,,,
+37ae52ce-7aa2-4373-82d8-0cd499c727c7,dakotacity.forum,available,1.99,,medium,low,11,name.com,,,
