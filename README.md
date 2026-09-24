@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .forum one-word domains fro
 
 **Public extract:** 1,000 rows · **Live catalog:** 32,184 domains · **Median ask:** $34.77 · **High-demand under $2,500:** 28
 
-**Last updated:** 2026-09-23
+**Last updated:** 2026-09-24
 **Canonical page:** `https://unique.domains/domains/tld/forum`
 **Best for:** founders, investors, studios
 
@@ -64,7 +64,6 @@ print(df.head())
 
 | domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
 | ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
-| time.forum    | premium   | $640      | $640          | high           | medium | 4      | namesilo        |
 | ahuh.forum    | available | $1.99     | —             | high           | low    | 4      | name.com        |
 | deal.forum    | resell    | —         | —             | low            | low    | 4      | NAMECHEAP       |
 | ant.forum     | premium   | $218.75   | —             | high           | medium | 3      | name.com        |
@@ -83,7 +82,8 @@ print(df.head())
 | alot.forum    | available | $1.99     | —             | high           | low    | 5      | name.com        |
 | ccc.forum     | premium   | $87.50    | $125          | low            | medium | 3      | name.com        |
 | child.forum   | available | $1.99     | —             | high           | low    | 5      | name.com        |
-| cut.forum     | premium   | $625      | $625          | high           | low    | 3      | name.com        |
+| cut.forum     | premium   | $640      | $640          | low            | low    | 3      | namesilo        |
+| crisp.forum   | available | $2.19     | $34.99        | low            | low    | 5      | namesilo        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .FORUM One-Word Domains*. Version 2026-09-23. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .FORUM One-Word Domains*. Version 2026-09-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
