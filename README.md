@@ -1,10 +1,10 @@
-# Available .FORUM One-Word Domains (24,936)
+# Available .FORUM One-Word Domains (26,994)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-24%2C936%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-26%2C994%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .forum one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **24,936 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **26,994 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 24,936 domains · **Median ask:** $61.37 · **High-demand under $2,500:** 55
+**Public extract:** 1,000 rows · **Live catalog:** 26,994 domains · **Median ask:** $63.27 · **High-demand under $2,500:** 64
 
-**Last updated:** 2026-09-28
+**Last updated:** 2026-09-29
 **Canonical page:** `https://unique.domains/domains/tld/forum`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| fast.forum      | premium   | $1,107    | $1,107        | high           | medium | 4      | namesilo  |
-| set.forum       | premium   | $130      | $130          | high           | low    | 3      | namecheap |
-| must.forum      | premium   | $640      | $640          | high           | low    | 4      | namesilo  |
-| artistry.forum  | premium   | $116      | $116          | high           | medium | 8      | namesilo  |
-| musical.forum   | available | $1.80     | $49.98        | high           | low    | 7      | namecheap |
-| accurate.forum  | available | $2.19     | $34.99        | high           | low    | 8      | namesilo  |
-| roast.forum     | premium   | $103.70   | $103.70       | high           | low    | 5      | spaceship |
-| award.forum     | premium   | $116      | $116          | high           | low    | 5      | namesilo  |
-| aim.forum       | premium   | $640      | $640          | high           | medium | 3      | namesilo  |
-| winning.forum   | available | $2.19     | $34.99        | high           | low    | 7      | namesilo  |
-| after.forum     | premium   | $116      | $116          | high           | low    | 5      | namesilo  |
-| modest.forum    | available | $1.80     | $49.98        | high           | low    | 6      | namecheap |
-| teal.forum      | premium   | $116      | $116          | high           | low    | 4      | namesilo  |
-| accessory.forum | available | $2.19     | $34.99        | high           | low    | 9      | namesilo  |
-| rose.forum      | premium   | $110      | $110          | high           | medium | 4      | dynadot   |
-| committed.forum | available | $2.19     | $34.99        | high           | low    | 9      | namesilo  |
-| entertain.forum | available | $1.24     | $31.16        | high           | low    | 9      | spaceship |
-| make.forum      | premium   | $116      | $116          | high           | medium | 4      | namesilo  |
-| outdoors.forum  | available | $2.19     | $34.99        | high           | low    | 8      | namesilo  |
-| inspire.forum   | available | $2.19     | $34.99        | high           | medium | 7      | namesilo  |
+| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
+| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
+| abls.forum       | available | $2.19     | $34.99        | medium         | low    | 4      | namesilo        |
+| agent.forum      | resell    | —         | —             | high           | medium | 5      | Spaceship, Inc. |
+| ade.forum        | premium   | $130      | $130          | high           | low    | 3      | namecheap       |
+| bonn.forum       | available | $2.19     | $34.99        | high           | low    | 4      | namesilo        |
+| hunters.forum    | resell    | —         | —             | medium         | low    | 7      | —               |
+| adi.forum        | premium   | $116      | $116          | high           | low    | 3      | namesilo        |
+| chas.forum       | available | $1.24     | $31.16        | medium         | low    | 4      | spaceship       |
+| artificial.forum | resell    | —         | —             | high           | low    | 10     | NAMECHEAP       |
+| aim.forum        | premium   | $640      | $640          | high           | medium | 3      | namesilo        |
+| farr.forum       | available | $2.99     | $32.32        | medium         | low    | 4      | dynadot         |
+| ara.forum        | premium   | $640      | $640          | high           | low    | 3      | namesilo        |
+| lxxx.forum       | available | $1.80     | $49.98        | medium         | low    | 4      | namecheap       |
+| bel.forum        | premium   | $650      | $650          | high           | low    | 3      | namecheap       |
+| olin.forum       | available | $2.19     | $34.99        | medium         | low    | 4      | namesilo        |
+| bns.forum        | premium   | $116      | $116          | high           | low    | 3      | namesilo        |
+| asama.forum      | available | $2.19     | $34.99        | medium         | low    | 5      | namesilo        |
+| bud.forum        | premium   | $437.50   | —             | high           | low    | 3      | name.com        |
+| beria.forum      | available | $2.19     | $34.99        | medium         | low    | 5      | namesilo        |
+| cca.forum        | premium   | $116      | $116          | high           | low    | 3      | namesilo        |
+| bitok.forum      | available | $1.80     | $49.98        | medium         | low    | 5      | namecheap       |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 24,936 live domains                        |
+| 1,000-row public sample | 26,994 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 55 high-demand names under $2,500          |
+| Basic exported fields   | 64 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .FORUM One-Word Domains*. Version 2026-09-28. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .FORUM One-Word Domains*. Version 2026-09-29. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
