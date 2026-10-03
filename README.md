@@ -1,10 +1,10 @@
-# Available .FORUM One-Word Domains (33,314)
+# Available .FORUM One-Word Domains (35,627)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-33%2C314%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-35%2C627%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .forum one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **33,314 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **35,627 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 33,314 domains · **Median ask:** $63.87 · **High-demand under $2,500:** 83
+**Public extract:** 1,000 rows · **Live catalog:** 35,627 domains · **Median ask:** $63.23 · **High-demand under $2,500:** 87
 
-**Last updated:** 2026-10-02
+**Last updated:** 2026-10-03
 **Canonical page:** `https://unique.domains/domains/tld/forum`
 **Best for:** founders, investors, studios
 
@@ -67,23 +67,23 @@ print(df.head())
 | asad.forum       | available | $2.19     | $34.99        | medium         | low    | 4      | namesilo        |
 | agent.forum      | resell    | —         | —             | high           | medium | 5      | Spaceship, Inc. |
 | ade.forum        | premium   | $130      | $130          | high           | low    | 3      | namecheap       |
-| chas.forum       | available | $1.24     | $31.16        | medium         | low    | 4      | spaceship       |
+| batu.forum       | available | $2.99     | $32.32        | medium         | low    | 4      | dynadot         |
 | hunters.forum    | resell    | —         | —             | medium         | low    | 7      | —               |
 | adi.forum        | premium   | $116      | $116          | high           | low    | 3      | namesilo        |
-| elam.forum       | available | $2.19     | $34.99        | medium         | low    | 4      | namesilo        |
+| chas.forum       | available | $1.24     | $31.16        | medium         | low    | 4      | spaceship       |
 | artificial.forum | resell    | —         | —             | high           | low    | 10     | NAMECHEAP       |
+| adl.forum        | premium   | $517.70   | $517.70       | high           | low    | 3      | spaceship       |
+| elam.forum       | available | $2.19     | $34.99        | medium         | low    | 4      | namesilo        |
 | afm.forum        | premium   | $103.70   | $103.70       | high           | low    | 3      | spaceship       |
 | farr.forum       | available | $2.99     | $32.32        | medium         | low    | 4      | dynadot         |
 | aim.forum        | premium   | $640      | $640          | high           | medium | 3      | namesilo        |
 | hara.forum       | available | $1.80     | $49.98        | medium         | low    | 4      | namecheap       |
 | ara.forum        | premium   | $640      | $640          | high           | low    | 3      | namesilo        |
-| lodi.forum       | available | $2.19     | $34.99        | medium         | low    | 4      | namesilo        |
+| heim.forum       | available | $2.19     | $34.99        | medium         | low    | 4      | namesilo        |
 | bns.forum        | premium   | $116      | $116          | high           | low    | 3      | namesilo        |
-| lxxx.forum       | available | $1.80     | $49.98        | medium         | low    | 4      | namecheap       |
+| kaya.forum       | available | $30.20    | $30.20        | high           | low    | 4      | cloudflare      |
 | bud.forum        | premium   | $517.70   | $517.70       | high           | low    | 3      | spaceship       |
-| melo.forum       | available | $1.24     | $31.16        | high           | low    | 4      | spaceship       |
-| cbo.forum        | premium   | $517.70   | $517.70       | high           | low    | 3      | spaceship       |
-| olin.forum       | available | $2.19     | $34.99        | medium         | low    | 4      | namesilo        |
+| lodi.forum       | available | $2.19     | $34.99        | medium         | low    | 4      | namesilo        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 33,314 live domains                        |
+| 1,000-row public sample | 35,627 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 83 high-demand names under $2,500          |
+| Basic exported fields   | 87 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .FORUM One-Word Domains*. Version 2026-10-02. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .FORUM One-Word Domains*. Version 2026-10-03. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
